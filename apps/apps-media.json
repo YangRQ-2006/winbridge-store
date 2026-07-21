@@ -22,7 +22,7 @@
     "totalReports": 567,
     "downloadSize": 314572800,
     "winlatorNotes": "建议使用 Photoshop CS6/CC 2017-2020，避免最新版订阅验证问题。需要较大的容器配置（6GB+ 内存）。GPU 加速需要 DXVK 支持。建议禁用云同步和自动更新。",
-    "downloadUrl": "https://www.adobe.com/products/photoshop.html",
+    "downloadUrl": "https://github.com/YangRQ-2006/winbridge-store/releases/download/photoshop-cc2019/Photoshop.exe",
     "officialSite": "https://www.adobe.com"
   },
   {
@@ -48,7 +48,7 @@
     "totalReports": 234,
     "downloadSize": 524288000,
     "winlatorNotes": "建议使用 Premiere Pro 2020-2022 版本。需要 8GB+ 内存和强大的 GPU 支持。建议禁用 Mercury Playback Engine 的硬件加速以减少崩溃。导出功能可用，实时预览可能卡顿。",
-    "downloadUrl": "https://www.adobe.com/products/premiere.html",
+    "downloadUrl": "https://github.com/YangRQ-2006/winbridge-store/releases/download/premiere-pro-2020/PremierePro.exe",
     "officialSite": "https://www.adobe.com"
   },
   {
@@ -74,7 +74,7 @@
     "totalReports": 189,
     "downloadSize": 314572800,
     "winlatorNotes": "免费版功能足够专业使用。建议使用 DaVinci Resolve 18 版本。需要 8GB+ 内存和独立 GPU。剪辑功能可用，实时调色预览可能较慢。",
-    "downloadUrl": "https://www.blackmagicdesign.com/products/davinciresolve/",
+    "downloadUrl": "https://github.com/YangRQ-2006/winbridge-store/releases/download/davinci-resolve-18/DaVinciResolve.exe",
     "officialSite": "https://www.blackmagicdesign.com"
   },
   {
@@ -100,7 +100,7 @@
     "totalReports": 145,
     "downloadSize": 104857600,
     "winlatorNotes": "运行稳定，视频播放流畅。建议安装额外的解码器插件。皮肤和插件兼容性良好。远程控制功能需要额外配置。",
-    "downloadUrl": "https://kodi.tv/download/",
+    "downloadUrl": "https://github.com/YangRQ-2006/winbridge-store/releases/download/kodi-21/Kodi.exe",
     "officialSite": "https://kodi.tv"
   },
   {
@@ -126,7 +126,7 @@
     "totalReports": 167,
     "downloadSize": 52428800,
     "winlatorNotes": "运行流畅，图层和滤镜功能正常。建议安装额外的效果插件。中文显示需要确保字体支持。大文件处理速度取决于设备性能。",
-    "downloadUrl": "https://www.getpaint.net/download.html",
+    "downloadUrl": "https://github.com/YangRQ-2006/winbridge-store/releases/download/paintnet-5/PaintDotNet.exe",
     "officialSite": "https://www.getpaint.net"
   }
 ]

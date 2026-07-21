@@ -22,7 +22,7 @@
     "totalReports": 189,
     "downloadSize": 1048576,
     "winlatorNotes": "运行完美，打开速度极快。中文显示正常。适合快速查看 PDF，不适合重度注释和编辑。支持快捷键翻页。",
-    "downloadUrl": "https://www.sumatrapdfreader.org/download-free-pdf-viewer",
+    "downloadUrl": "https://github.com/YangRQ-2006/winbridge-store/releases/download/sumatra-pdf-3.5/SumatraPDF.exe",
     "officialSite": "https://www.sumatrapdfreader.org"
   },
   {
@@ -48,7 +48,7 @@
     "totalReports": 245,
     "downloadSize": 5242880,
     "winlatorNotes": "在 Wine 中运行良好，可以正常查看和管理进程。建议使用 /e 参数以启用增强模式。注意不要结束 Wine 核心进程。",
-    "downloadUrl": "https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer",
+    "downloadUrl": "https://github.com/YangRQ-2006/winbridge-store/releases/download/process-explorer-17/ProcessExplorer.exe",
     "officialSite": "https://learn.microsoft.com/en-us/sysinternals"
   },
   {
@@ -74,7 +74,7 @@
     "totalReports": 167,
     "downloadSize": 5242880,
     "winlatorNotes": "扫描和可视化功能正常。可以分析 Wine 虚拟 C 盘的占用情况。注意扫描完成后及时关闭，避免占用过多系统资源。",
-    "downloadUrl": "https://windirstat.net/download.html",
+    "downloadUrl": "https://github.com/YangRQ-2006/winbridge-store/releases/download/windirstat-1.3/WinDirStat.exe",
     "officialSite": "https://windirstat.net"
   },
   {
@@ -100,7 +100,7 @@
     "totalReports": 198,
     "downloadSize": 15728640,
     "winlatorNotes": "脚本运行稳定，可以正常捕获热键和模拟输入。建议避免使用过于复杂的 GUI 脚本。在 Wine 中可能需要调整键盘布局设置。",
-    "downloadUrl": "https://www.autohotkey.com/download/",
+    "downloadUrl": "https://github.com/YangRQ-2006/winbridge-store/releases/download/autohotkey-2/AutoHotkey.exe",
     "officialSite": "https://www.autohotkey.com"
   }
 ]

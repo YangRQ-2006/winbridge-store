@@ -22,7 +22,7 @@
     "totalReports": 423,
     "downloadSize": 1048576000,
     "winlatorNotes": "建议使用 Visual Studio 2019/2022，需要较大的容器配置（8GB+ 内存）。安装时选择最小工作负载以减少体积。调试功能可用，但性能调试可能较慢。",
-    "downloadUrl": "https://visualstudio.microsoft.com/downloads/",
+    "downloadUrl": "https://github.com/YangRQ-2006/winbridge-store/releases/download/visual-studio-2022/VisualStudio.exe",
     "officialSite": "https://visualstudio.microsoft.com"
   },
   {
@@ -48,7 +48,7 @@
     "totalReports": 312,
     "downloadSize": 629145600,
     "winlatorNotes": "WSL2 后端无法使用，建议使用 Linux 容器。内存分配至少 4GB。GPU 直通需要额外配置。建议禁用自动启动以减少资源占用。",
-    "downloadUrl": "https://www.docker.com/products/docker-desktop/",
+    "downloadUrl": "https://github.com/YangRQ-2006/winbridge-store/releases/download/docker-desktop-4/DockerDesktop.exe",
     "officialSite": "https://www.docker.com"
   },
   {
@@ -74,7 +74,7 @@
     "totalReports": 289,
     "downloadSize": 157286400,
     "winlatorNotes": "基础功能运行良好，Collections 同步可能需要登录。建议禁用自动更新和遥测功能。Monitors 和 Mock Server 功能可用。",
-    "downloadUrl": "https://www.postman.com/downloads/",
+    "downloadUrl": "https://github.com/YangRQ-2006/winbridge-store/releases/download/postman-10/Postman.exe",
     "officialSite": "https://www.postman.com"
   },
   {
@@ -100,7 +100,7 @@
     "totalReports": 356,
     "downloadSize": 15728640,
     "winlatorNotes": "运行流畅，启动极快。中文显示正常。建议安装 Package Control 并提前下载需要的插件。免费版有弹窗提示，但不影响使用。",
-    "downloadUrl": "https://www.sublimetext.com/download",
+    "downloadUrl": "https://github.com/YangRQ-2006/winbridge-store/releases/download/sublime-text-4/SublimeText.exe",
     "officialSite": "https://www.sublimetext.com"
   },
   {
@@ -126,7 +126,7 @@
     "totalReports": 456,
     "downloadSize": 104857600,
     "winlatorNotes": "运行稳定，数据库和页面渲染正常。建议禁用自动更新和动画效果以提升性能。离线访问需要提前同步数据。",
-    "downloadUrl": "https://www.notion.so/desktop",
+    "downloadUrl": "https://github.com/YangRQ-2006/winbridge-store/releases/download/notion-3/Notion.exe",
     "officialSite": "https://www.notion.so"
   },
   {
@@ -152,7 +152,7 @@
     "totalReports": 378,
     "downloadSize": 524288000,
     "winlatorNotes": "社区版功能足够，建议分配 6GB+ 内存。索引过程可能需要较长时间。建议关闭实时模板检查和 inspections 以提升性能。",
-    "downloadUrl": "https://www.jetbrains.com/idea/download/",
+    "downloadUrl": "https://github.com/YangRQ-2006/winbridge-store/releases/download/intellij-idea-2024/IntelliJIDEA.exe",
     "officialSite": "https://www.jetbrains.com/idea"
   }
 ]

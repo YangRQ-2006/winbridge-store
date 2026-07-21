@@ -22,7 +22,7 @@
     "totalReports": 1245,
     "downloadSize": 314572800,
     "winlatorNotes": "推荐使用 Office 2010/2013/2016，避免 Office 365 订阅验证问题。建议安装 .NET Framework 4.8 和 Visual C++ 运行库。关闭自动保存和实时协作功能可提升稳定性。",
-    "downloadUrl": "https://www.microsoft.com/microsoft-365",
+    "downloadUrl": "https://github.com/YangRQ-2006/winbridge-store/releases/download/office-2013/office-2013.exe",
     "officialSite": "https://www.microsoft.com/microsoft-365"
   },
   {
@@ -48,7 +48,7 @@
     "totalReports": 156,
     "downloadSize": 83886080,
     "winlatorNotes": "编辑和注释功能稳定。OCR 功能需要额外安装语言包。建议关闭云同步功能以避免兼容性问题。表单填写和数字签名功能可用。",
-    "downloadUrl": "https://www.foxit.com/pdf-editor/",
+    "downloadUrl": "https://github.com/YangRQ-2006/winbridge-store/releases/download/foxit-pdf-editor-12/FoxitPDFEditor.exe",
     "officialSite": "https://www.foxit.com"
   },
   {
@@ -74,7 +74,7 @@
     "totalReports": 134,
     "downloadSize": 52428800,
     "winlatorNotes": "运行流畅，注释功能齐全。免费版有水印，但功能足够日常使用。OCR 功能需要单独安装语言包。建议关闭自动更新。",
-    "downloadUrl": "https://www.tracker-software.com/product/pdf-xchange-editor",
+    "downloadUrl": "https://github.com/YangRQ-2006/winbridge-store/releases/download/pdf-xchange-editor-10/PDFXChangeEditor.exe",
     "officialSite": "https://www.tracker-software.com"
   },
   {
@@ -100,7 +100,7 @@
     "totalReports": 203,
     "downloadSize": 104857600,
     "winlatorNotes": "阅读和注释功能稳定。数字签名需要额外配置证书。建议禁用自动更新和云同步以减少问题。部分 3D PDF 功能可能无法正常工作。",
-    "downloadUrl": "https://get.adobe.com/reader/",
+    "downloadUrl": "https://github.com/YangRQ-2006/winbridge-store/releases/download/adobe-acrobat-reader-dc/AcroRdrDC.exe",
     "officialSite": "https://acrobat.adobe.com"
   }
 ]

@@ -79,7 +79,7 @@ apps/
 2. 在对应分类的 JSON 文件中添加新条目
 3. 提交 Pull Request
 
-或直接在 [WinBridge 项目](https://github.com/YangRQ-2006/Win11Launcher) 中提交 Issue 请求添加。
+或直接在 [WinBridge 项目](https://github.com/YangRQ-2006/WinBridge) 中提交 Issue 请求添加。
 
 ## 许可证
 

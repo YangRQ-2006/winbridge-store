@@ -1,0 +1,54 @@
+[
+  {
+    "appId": 820001,
+    "name": "Audacity",
+    "appType": "curated",
+    "packageName": "audacity",
+    "iconUrl": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/audacity.svg",
+    "headerImage": "https://images.unsplash.com/photo-1511379938547-1c7026b1c893?w=800&h=450&fit=crop",
+    "screenshots": [
+      "https://images.unsplash.com/photo-1598488060970-8d1365802300?w=800&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&h=500&fit=crop"
+    ],
+    "shortDescription": "免费开源的音频编辑和录音软件，支持多轨道编辑、降噪、效果器等功能。",
+    "detailedDescription": "Audacity 是一款免费开源的跨平台音频编辑软件，支持实时录音、多轨道编辑、降噪、淡入淡出、均衡器、压缩器等丰富的音频处理功能。它支持 WAV、MP3、FLAC、OGG 等几乎所有常见音频格式，是播客制作、音频剪辑、音乐制作的理想选择。",
+    "genres": ["娱乐", "音频编辑", "媒体工具"],
+    "isFree": true,
+    "price": "免费",
+    "developers": "Audacity Team",
+    "publishers": "开源社区",
+    "releaseDate": "2024-03-18",
+    "protonTier": "platinum",
+    "totalReports": 214,
+    "downloadSize": 31457280,
+    "winlatorNotes": "录音和编辑功能完美运行。建议在 Wine 中安装额外的音频编解码器以获得更完整的格式支持。导出 MP3 可能需要 LAME 编码器。",
+    "downloadUrl": "https://www.audacityteam.org/download/",
+    "officialSite": "https://www.audacityteam.org"
+  },
+  {
+    "appId": 820002,
+    "name": "HandBrake",
+    "appType": "curated",
+    "packageName": "handbrake",
+    "iconUrl": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/handbrake.svg",
+    "headerImage": "https://images.unsplash.com/photo-1574267432553-4b4628081c31?w=800&h=450&fit=crop",
+    "screenshots": [
+      "https://images.unsplash.com/photo-1535016120720-40c6874c3b13?w=800&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&h=500&fit=crop"
+    ],
+    "shortDescription": "免费开源的视频转码工具，支持几乎所有视频格式，批量转码效率高。",
+    "detailedDescription": "HandBrake 是一款免费开源的视频转码软件，支持从 DVD 或视频文件中提取视频并转换为 MP4、MKV、WebM 等现代格式。它提供丰富的预设配置，支持 H.264、H.265/HEVC、VP9 等编码格式，内置字幕、滤镜、章节编辑等功能。批量转码功能强大，是视频格式转换的首选工具。",
+    "genres": ["娱乐", "视频工具", "媒体转换"],
+    "isFree": true,
+    "price": "免费",
+    "developers": "HandBrake Team",
+    "publishers": "开源社区",
+    "releaseDate": "2024-02-14",
+    "protonTier": "gold",
+    "totalReports": 178,
+    "downloadSize": 52428800,
+    "winlatorNotes": "转码功能可用，支持常见格式。H.265 编码速度较慢，建议使用 H.264 以获得更好的兼容性。GPU 硬件加速可能需要额外配置。",
+    "downloadUrl": "https://handbrake.fr/downloads.php",
+    "officialSite": "https://handbrake.fr"
+  }
+]

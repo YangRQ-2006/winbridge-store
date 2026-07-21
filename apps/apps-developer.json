@@ -1,0 +1,54 @@
+[
+  {
+    "appId": 830001,
+    "name": "Visual Studio Code",
+    "appType": "curated",
+    "packageName": "vscode",
+    "iconUrl": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/visualstudiocode.svg",
+    "headerImage": "https://images.unsplash.com/photo-1542831371-29b0f74f9713?w=800&h=450&fit=crop",
+    "screenshots": [
+      "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=800&h=500&fit=crop"
+    ],
+    "shortDescription": "微软出品的免费代码编辑器，支持丰富的扩展插件，是开发人员的首选工具。",
+    "detailedDescription": "Visual Studio Code 是微软开发的免费开源代码编辑器，支持 IntelliSense 智能代码补全、调试、Git 集成、代码格式化等功能。它拥有丰富的扩展生态系统，支持 Python、JavaScript、C++、Java 等几乎所有主流编程语言。界面简洁高效，启动速度快，是 Web 开发和软件开发的理想选择。",
+    "genres": ["开发工具", "代码编辑器", "IDE"],
+    "isFree": true,
+    "price": "免费",
+    "developers": "Microsoft",
+    "publishers": "Microsoft",
+    "releaseDate": "2024-04-10",
+    "protonTier": "silver",
+    "totalReports": 567,
+    "downloadSize": 104857600,
+    "winlatorNotes": "可以正常编辑代码，但扩展市场访问可能受限。建议提前下载需要的扩展离线安装。性能良好，大文件编辑可能有延迟。",
+    "downloadUrl": "https://code.visualstudio.com/download",
+    "officialSite": "https://code.visualstudio.com"
+  },
+  {
+    "appId": 830002,
+    "name": "Git",
+    "appType": "curated",
+    "packageName": "git",
+    "iconUrl": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/git.svg",
+    "headerImage": "https://images.unsplash.com/photo-1556075798-4825dfaaf498?w=800&h=450&fit=crop",
+    "screenshots": [
+      "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=800&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1542831371-29b0f74f9713?w=800&h=500&fit=crop"
+    ],
+    "shortDescription": "分布式版本控制系统，是现代软件开发必备的工具，支持代码托管和协作开发。",
+    "detailedDescription": "Git 是由 Linux Torvalds 开发的分布式版本控制系统，是现代软件开发的行业标准。它支持代码版本管理、分支管理、合并冲突解决、远程仓库同步等功能。配合 GitHub、GitLab 等平台，可以实现高效的团队协作开发。Git 速度快、分支管理灵活，是每个开发人员必备的工具。",
+    "genres": ["开发工具", "版本控制", "协作工具"],
+    "isFree": true,
+    "price": "免费",
+    "developers": "Linus Torvalds",
+    "publishers": "开源社区",
+    "releaseDate": "2024-01-08",
+    "protonTier": "platinum",
+    "totalReports": 892,
+    "downloadSize": 52428800,
+    "winlatorNotes": "命令行版本运行完美。GUI 客户端如 GitKraken 也可以运行，但性能可能不如命令行版本。SSH 密钥配置需要在 Wine 环境中进行。",
+    "downloadUrl": "https://git-scm.com/download/win",
+    "officialSite": "https://git-scm.com"
+  }
+]

@@ -4,12 +4,8 @@
     "name": "Sumatra PDF",
     "appType": "curated",
     "packageName": "sumatra-pdf",
-    "iconUrl": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pdf.svg",
-    "headerImage": "https://images.unsplash.com/photo-1568992687947-868a62a9f521?w=800&h=450&fit=crop",
-    "screenshots": [
-      "https://images.unsplash.com/photo-1586281380349-632531db7ed4?w=800&h=500&fit=crop",
-      "https://images.unsplash.com/photo-1568992687947-868a62a9f521?w=800&h=500&fit=crop"
-    ],
+    "iconUrl": "https://cdn.jsdelivr.net/gh/YangRQ-2006/WinBridge-store@main/icons/sumatra-pdf.png",
+    "screenshots": [],
     "shortDescription": "极简快速的 PDF 阅读器，开源免费，启动速度极快，支持 MOBI、EPUB、CHM 等多种格式。",
     "detailedDescription": "Sumatra PDF 是一款免费开源的 PDF 阅读器，以其极小的体积和极快的启动速度而闻名。它支持 PDF、MOBI、EPUB、CHM、DjVu、CBZ/CBR 等多种电子书和文档格式。界面极其简洁，无广告，无后台进程，是纯阅读需求的最佳选择。虽然安卓上有同类阅读器，但 Sumatra PDF 的简洁性和格式覆盖仍是独特优势。",
     "genres": [
@@ -27,19 +23,16 @@
     "downloadSize": 8246744,
     "winlatorNotes": "运行完美，打开速度极快。中文显示正常。适合快速查看 PDF，不适合重度注释和编辑。支持快捷键翻页。",
     "downloadUrl": "https://github.com/YangRQ-2006/winbridge-store/releases/download/v1/SumatraPDF-3.5.2-64-install.exe",
-    "officialSite": "https://www.sumatrapdfreader.org"
+    "officialSite": "https://www.sumatrapdfreader.org",
+    "sha256": "2be4a27b83830ea07c6671c3557673d509544e5f70fc6b2dc8cc4388b302c1f2"
   },
   {
     "appId": 810016,
     "name": "Process Explorer",
     "appType": "curated",
     "packageName": "process-explorer",
-    "iconUrl": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoft.svg",
-    "headerImage": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=800&h=450&fit=crop",
-    "screenshots": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&h=500&fit=crop",
-      "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=800&h=500&fit=crop"
-    ],
+    "iconUrl": "https://cdn.jsdelivr.net/gh/YangRQ-2006/WinBridge-store@main/icons/process-explorer.png",
+    "screenshots": [],
     "shortDescription": "微软 Sysinternals 出品的进程管理工具，比任务管理器更强大，可查看进程树、句柄和 DLL。",
     "detailedDescription": "Process Explorer 是微软 Sysinternals 套件中的高级进程管理器，功能远超 Windows 自带的任务管理器。它可以显示进程树结构、查看进程打开的句柄和加载的 DLL、实时监控 CPU/内存/IO 占用、搜索进程、终止进程等。对于排查 Wine 容器内进程异常、资源占用过高问题非常有用。",
     "genres": [
@@ -57,19 +50,16 @@
     "downloadSize": 5242880,
     "winlatorNotes": "在 Wine 中运行良好，可以正常查看和管理进程。建议使用 /e 参数以启用增强模式。注意不要结束 Wine 核心进程。",
     "downloadUrl": "https://github.com/YangRQ-2006/winbridge-store/releases/download/v1/ProcessExplorer.zip",
-    "officialSite": "https://learn.microsoft.com/en-us/sysinternals"
+    "officialSite": "https://learn.microsoft.com/en-us/sysinternals",
+    "sha256": "678c540c306b73fa2354de8565c30c53f531de3cb0a989d056d603fa5f98ed6a"
   },
   {
     "appId": 810017,
     "name": "WinDirStat",
     "appType": "curated",
     "packageName": "windirstat",
-    "iconUrl": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/windows.svg",
-    "headerImage": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=800&h=450&fit=crop",
-    "screenshots": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&h=500&fit=crop",
-      "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=800&h=500&fit=crop"
-    ],
+    "iconUrl": "https://cdn.jsdelivr.net/gh/YangRQ-2006/WinBridge-store@main/icons/windirstat.png",
+    "screenshots": [],
     "shortDescription": "磁盘空间分析工具，可视化显示文件和文件夹大小，快速定位大文件和垃圾文件。",
     "detailedDescription": "WinDirStat 是一款免费的磁盘使用情况分析工具，能够扫描整个磁盘或指定目录，并以树状图和彩色区块图的方式展示每个文件和文件夹占用的空间大小。它可以快速定位占用大量空间的大文件、临时文件和垃圾文件。在 Wine 环境中特别适合分析虚拟 C 盘的磁盘占用情况。",
     "genres": [
@@ -87,19 +77,16 @@
     "downloadSize": 5242880,
     "winlatorNotes": "扫描和可视化功能正常。可以分析 Wine 虚拟 C 盘的占用情况。注意扫描完成后及时关闭，避免占用过多系统资源。",
     "downloadUrl": "https://github.com/YangRQ-2006/winbridge-store/releases/download/v1/WinDirStat-x64-v2.8.0.msi",
-    "officialSite": "https://windirstat.net"
+    "officialSite": "https://windirstat.net",
+    "sha256": "c40a6ec73497b18eb4ce2cbe071983b4f637cd04644bfca73c176d624794f79a"
   },
   {
     "appId": 810018,
     "name": "AutoHotkey",
     "appType": "curated",
     "packageName": "autohotkey",
-    "iconUrl": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/autohotkey.svg",
-    "headerImage": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=800&h=450&fit=crop",
-    "screenshots": [
-      "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&h=500&fit=crop",
-      "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=800&h=500&fit=crop"
-    ],
+    "iconUrl": "https://cdn.jsdelivr.net/gh/YangRQ-2006/WinBridge-store@main/icons/autohotkey.png",
+    "screenshots": [],
     "shortDescription": "Windows 自动化脚本工具，通过简单脚本实现快捷键、窗口管理和自动化操作。",
     "detailedDescription": "AutoHotkey 是一款免费的 Windows 自动化脚本语言和工具，可以用简单的脚本定义快捷键、自动替换文本、控制窗口、模拟鼠标键盘输入、创建 GUI 界面等。它在 Wine 中非常有用，可以弥补触摸屏操作的不足，比如映射屏幕边缘为功能键、快速启动应用、窗口置顶等。",
     "genres": [
@@ -117,6 +104,7 @@
     "downloadSize": 15728640,
     "winlatorNotes": "脚本运行稳定，可以正常捕获热键和模拟输入。建议避免使用过于复杂的 GUI 脚本。在 Wine 中可能需要调整键盘布局设置。",
     "downloadUrl": "https://github.com/YangRQ-2006/winbridge-store/releases/download/v1/AutoHotkey-v2.0.27-setup.exe",
-    "officialSite": "https://www.autohotkey.com"
+    "officialSite": "https://www.autohotkey.com",
+    "sha256": "957c58d79742124c102307e0e9f43ec56557461e0892a852f9ef2c5f842494d9"
   }
 ]

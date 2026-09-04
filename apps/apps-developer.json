@@ -4,12 +4,8 @@
     "name": "Sublime Text",
     "appType": "curated",
     "packageName": "sublime-text",
-    "iconUrl": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/sublimetext.svg",
-    "headerImage": "https://images.unsplash.com/photo-1542831371-29b0f74f9713?w=800&h=450&fit=crop",
-    "screenshots": [
-      "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&h=500&fit=crop",
-      "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=800&h=500&fit=crop"
-    ],
+    "iconUrl": "https://cdn.jsdelivr.net/gh/YangRQ-2006/WinBridge-store@main/icons/sublime-text.png",
+    "screenshots": [],
     "shortDescription": "高性能文本编辑器，启动速度极快，支持多光标、Goto Anything、插件扩展。",
     "detailedDescription": "Sublime Text 是一款高性能的文本和代码编辑器，以其极快的启动速度和响应速度著称。它支持多光标编辑、Goto Anything 快速导航、命令面板、分屏编辑、正则表达式查找替换、Package Control 插件管理等强大功能。虽然安卓有各种编辑器，但 Sublime Text 的性能和多光标编辑体验仍是独特优势。",
     "genres": [
@@ -27,6 +23,7 @@
     "downloadSize": 16200128,
     "winlatorNotes": "运行流畅，启动极快。中文显示正常。建议安装 Package Control 并提前下载需要的插件。免费版有弹窗提示，但不影响使用。",
     "downloadUrl": "https://github.com/YangRQ-2006/winbridge-store/releases/download/v1/SublimeText-Build4200-x64-Setup.exe",
-    "officialSite": "https://www.sublimetext.com"
+    "officialSite": "https://www.sublimetext.com",
+    "sha256": "3d3c70e51aef08f85d7160bcc70793bed9acec250973090ab67d98987bce7c7e"
   }
 ]

@@ -4,12 +4,8 @@
     "name": "Microsoft Office",
     "appType": "curated",
     "packageName": "microsoft-office",
-    "iconUrl": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftoffice.svg",
-    "headerImage": "https://images.unsplash.com/photo-1667372393119-c85c020799a3?w=800&h=450&fit=crop",
-    "screenshots": [
-      "https://images.unsplash.com/photo-1664575602276-acd073f104c1?w=800&h=500&fit=crop",
-      "https://images.unsplash.com/photo-1667372393119-c85c020799a3?w=800&h=500&fit=crop"
-    ],
+    "iconUrl": "https://cdn.jsdelivr.net/gh/YangRQ-2006/WinBridge-store@main/icons/microsoft-office.png",
+    "screenshots": [],
     "shortDescription": "微软办公软件套件，包含 Word、Excel、PowerPoint，是办公事实标准，格式兼容性最佳。",
     "detailedDescription": "Microsoft Office 是全球最广泛使用的办公软件套件，包含 Word（文字处理）、Excel（电子表格）、PowerPoint（演示文稿）、Outlook（电子邮件）等核心组件。它对 DOCX、XLSX、PPTX 等微软专有格式的兼容性最好，支持 VBA 宏、复杂的公式和高级排版。虽然安卓版 Office 存在，但功能明显弱于桌面版，特别是 VBA、插件、复杂文档处理能力缺失。",
     "genres": [
@@ -34,12 +30,8 @@
     "name": "Foxit PDF Editor",
     "appType": "curated",
     "packageName": "foxit-pdf-editor",
-    "iconUrl": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/foxit.svg",
-    "headerImage": "https://images.unsplash.com/photo-1568992687947-868a62a9f521?w=800&h=450&fit=crop",
-    "screenshots": [
-      "https://images.unsplash.com/photo-1568992687947-868a62a9f521?w=800&h=500&fit=crop",
-      "https://images.unsplash.com/photo-1586281380349-632531db7ed4?w=800&h=500&fit=crop"
-    ],
+    "iconUrl": "https://cdn.jsdelivr.net/gh/YangRQ-2006/WinBridge-store@main/icons/foxit-pdf-editor.png",
+    "screenshots": [],
     "shortDescription": "功能全面的 PDF 编辑软件，支持文本编辑、注释、表单填写、OCR、数字签名等专业功能。",
     "detailedDescription": "Foxit PDF Editor 是一款功能强大的 PDF 编辑软件，支持直接编辑 PDF 文本和图像、添加注释和标记、填写和创建表单、OCR 文字识别、数字签名、文档加密等专业功能。它体积小巧、启动速度快，与 Adobe Acrobat 高度兼容。虽然安卓版 Foxit 存在，但编辑、表单、OCR 和批量处理能力远弱于桌面版。",
     "genres": [
@@ -64,12 +56,8 @@
     "name": "PDF-XChange Editor",
     "appType": "curated",
     "packageName": "pdf-xchange-editor",
-    "iconUrl": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pdf.svg",
-    "headerImage": "https://images.unsplash.com/photo-1568992687947-868a62a9f521?w=800&h=450&fit=crop",
-    "screenshots": [
-      "https://images.unsplash.com/photo-1586281380349-632531db7ed4?w=800&h=500&fit=crop",
-      "https://images.unsplash.com/photo-1568992687947-868a62a9f521?w=800&h=500&fit=crop"
-    ],
+    "iconUrl": "https://cdn.jsdelivr.net/gh/YangRQ-2006/WinBridge-store@main/icons/pdf-xchange-editor.png",
+    "screenshots": [],
     "shortDescription": "轻量快速的 PDF 阅读器和编辑器，注释功能强大，OCR 支持好，体积小巧。",
     "detailedDescription": "PDF-XChange Editor 是 Windows 平台上最快的 PDF 阅读器和编辑器之一，体积小巧但功能强大。它支持 PDF 注释、高亮、划线、便签、图章、表单填写、OCR 文字识别、PDF 转图片/Word 等功能。界面简洁，启动速度极快，是 Foxit 和 Adobe Acrobat 的轻量替代品。",
     "genres": [
@@ -94,12 +82,8 @@
     "name": "Adobe Acrobat Reader DC",
     "appType": "curated",
     "packageName": "adobe-acrobat-reader",
-    "iconUrl": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/adobeacrobatreader.svg",
-    "headerImage": "https://images.unsplash.com/photo-1568992687947-868a62a9f521?w=800&h=450&fit=crop",
-    "screenshots": [
-      "https://images.unsplash.com/photo-1586281380349-632531db7ed4?w=800&h=500&fit=crop",
-      "https://images.unsplash.com/photo-1568992687947-868a62a9f521?w=800&h=500&fit=crop"
-    ],
+    "iconUrl": "https://cdn.jsdelivr.net/gh/YangRQ-2006/WinBridge-store@main/icons/adobe-acrobat-reader.png",
+    "screenshots": [],
     "shortDescription": "Adobe 官方 PDF 阅读器，支持注释、表单填写、数字签名，PDF 标准兼容性最好。",
     "detailedDescription": "Adobe Acrobat Reader DC 是 Adobe 官方推出的免费 PDF 阅读器，支持查看、注释、填写表单、数字签名、PDF 转 Word/Excel 等功能。它拥有最好的 PDF 标准兼容性和渲染准确性，支持 3D PDF、多媒体 PDF、PDF/A 等高级特性。虽然安卓版存在，但功能受限，许多企业级 PDF 功能缺失。",
     "genres": [
@@ -124,8 +108,7 @@
     "name": "LibreOffice",
     "appType": "curated",
     "packageName": "libreoffice",
-    "iconUrl": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/libreoffice.svg",
-    "headerImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&h=450&fit=crop",
+    "iconUrl": "https://cdn.jsdelivr.net/gh/YangRQ-2006/WinBridge-store@main/icons/libreoffice.png",
     "screenshots": [],
     "shortDescription": "开源办公套件，Microsoft Office 的免费替代，包含 Writer（文字处理）、Calc（表格）、Impress（演示）三大组件。",
     "detailedDescription": "LibreOffice 是最成熟的开源办公套件，完全支持 DOCX/XLSX/PPTX 格式的读写。Writer 提供完整的文字处理与排版能力，Calc 支持公式与数据透视表，Impress 可制作演示文稿并导出 PDF。对个人用户完全免费，无任何订阅与广告。",
@@ -144,15 +127,15 @@
     "downloadSize": 366170112,
     "winlatorNotes": "MSI 安装包可在 Wine 中直接安装。首次启动较慢（组件注册），属正常现象。如遇中文字体缺失，可在 winetricks 中安装 corefonts。建议关闭启动时的快速启动器。",
     "downloadUrl": "https://github.com/YangRQ-2006/winbridge-store/releases/download/v1/LibreOffice_25.8.7_Win_x86-64.msi",
-    "officialSite": "https://zh-cn.libreoffice.org"
+    "officialSite": "https://zh-cn.libreoffice.org",
+    "sha256": "ecdb65e76f5e91dc198b8c8dce5b5d6e1eb12fea6023553e52b591afd10b619d"
   },
   {
     "appId": 810016,
     "name": "Notepad++",
     "appType": "curated",
     "packageName": "notepad-plus-plus",
-    "iconUrl": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/notepadplusplus.svg",
-    "headerImage": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=800&h=450&fit=crop",
+    "iconUrl": "https://cdn.jsdelivr.net/gh/YangRQ-2006/WinBridge-store@main/icons/notepad-plus-plus.png",
     "screenshots": [],
     "shortDescription": "免费开源的文本与代码编辑器，启动飞快，支持语法高亮、多标签、正则查找替换、宏录制。",
     "detailedDescription": "Notepad++ 是 Windows 上最流行的轻量级文本编辑器，基于 Scintilla 编辑组件。支持 80+ 语言语法高亮、多文档多标签、正则表达式查找替换、列编辑、宏录制、插件扩展。打开超大文本文件（GB 级日志）也依然流畅，是记事本的完美替代品。",
@@ -170,15 +153,15 @@
     "downloadSize": 6953384,
     "winlatorNotes": "Wine 兼容性极佳，安装与运行均无需额外配置。可通过右键菜单关联文本文件打开。",
     "downloadUrl": "https://github.com/YangRQ-2006/winbridge-store/releases/download/v1/npp.8.9.8.Installer.x64.exe",
-    "officialSite": "https://notepad-plus-plus.org"
+    "officialSite": "https://notepad-plus-plus.org",
+    "sha256": "7b2a949bf460fb37a3888c9048698f43222a185a48323023df1c51e78a3ca1c2"
   },
   {
     "appId": 810017,
     "name": "7-Zip",
     "appType": "curated",
     "packageName": "7-zip",
-    "iconUrl": null,
-    "headerImage": "https://images.unsplash.com/photo-1586281380349-632531db7ed4?w=800&h=450&fit=crop",
+    "iconUrl": "https://cdn.jsdelivr.net/gh/YangRQ-2006/WinBridge-store@main/icons/7-zip.png",
     "screenshots": [],
     "shortDescription": "开源压缩解压工具，支持 7z/ZIP/RAR/ISO 等 40+ 格式，压缩率业界领先。",
     "detailedDescription": "7-Zip 是免费开源的文件压缩工具，拥有极高的压缩比（7z 格式），支持 ZIP、RAR、ISO、WIM、MSI 等 40+ 种格式的解压，可创建加密压缩包（AES-256）。集成右键菜单，支持分卷压缩，是装机必备工具。",
@@ -196,15 +179,15 @@
     "downloadSize": 1637343,
     "winlatorNotes": "Wine 完美兼容。安装后右键菜单需要重启容器文件管理器才能显示，命令行 7z.exe 始终可用。",
     "downloadUrl": "https://github.com/YangRQ-2006/winbridge-store/releases/download/v1/7z2409-x64.exe",
-    "officialSite": "https://www.7-zip.org"
+    "officialSite": "https://www.7-zip.org",
+    "sha256": "bdd1a33de78618d16ee4ce148b849932c05d0015491c34887846d431d29f308e"
   },
   {
     "appId": 810018,
     "name": "SumatraPDF",
     "appType": "curated",
     "packageName": "sumatrapdf",
-    "iconUrl": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/sumatrapdf.svg",
-    "headerImage": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=800&h=450&fit=crop",
+    "iconUrl": "https://cdn.jsdelivr.net/gh/YangRQ-2006/WinBridge-store@main/icons/sumatrapdf.png",
     "screenshots": [],
     "shortDescription": "超轻量 PDF/EPUB/漫画阅读器，启动秒开，界面极简无广告。",
     "detailedDescription": "SumatraPDF 是一款免费开源的轻量级文档阅读器，支持 PDF、EPUB、MOBI、CHM、XPS、DjVu、CBZ/CBR 漫画等多种格式。启动速度极快（毫秒级），内存占用极低，支持标签页浏览、书签注释、PDF 语法高亮渲染，界面清爽无任何广告。",
@@ -223,15 +206,15 @@
     "downloadSize": 8246744,
     "winlatorNotes": "Wine 兼容性极佳。作为 PDF 阅读的推荐选择，打开中文 PDF 无乱码问题。",
     "downloadUrl": "https://github.com/YangRQ-2006/winbridge-store/releases/download/v1/SumatraPDF-3.5.2-64-install.exe",
-    "officialSite": "https://www.sumatrapdfreader.org"
+    "officialSite": "https://www.sumatrapdfreader.org",
+    "sha256": "2be4a27b83830ea07c6671c3557673d509544e5f70fc6b2dc8cc4388b302c1f2"
   },
   {
     "appId": 810019,
     "name": "Everything",
     "appType": "curated",
     "packageName": "everything",
-    "iconUrl": null,
-    "headerImage": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800&h=450&fit=crop",
+    "iconUrl": "https://cdn.jsdelivr.net/gh/YangRQ-2006/WinBridge-store@main/icons/everything.png",
     "screenshots": [],
     "shortDescription": "Windows 文件即时搜索工具，输入即出结果，搜索速度秒杀系统自带。",
     "detailedDescription": "Everything 是 voidtools 出品的免费文件搜索工具，基于 NTFS 索引实现毫秒级全盘文件名搜索。输入关键词即时出结果，支持通配符、正则表达式、路径过滤，资源占用极低。配合 7-Zip 和 Notepad++ 是效率三件套。",
@@ -249,15 +232,15 @@
     "downloadSize": 1885848,
     "winlatorNotes": "Wine 兼容性极佳。可搜索容器内所有盘符（C:/Z: 等映射盘）。首次启动会自动建立索引，需要几秒钟。",
     "downloadUrl": "https://github.com/YangRQ-2006/winbridge-store/releases/download/v1/Everything-1.4.1.1024.x64-Setup.exe",
-    "officialSite": "https://www.voidtools.com"
+    "officialSite": "https://www.voidtools.com",
+    "sha256": "b2afe799584c913532c673f99ade45113bf5a5b605a964ce9fa837f563b6fc21"
   },
   {
     "appId": 810020,
     "name": "IrfanView",
     "appType": "curated",
     "packageName": "irfanview",
-    "iconUrl": null,
-    "headerImage": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=800&h=450&fit=crop",
+    "iconUrl": "https://cdn.jsdelivr.net/gh/YangRQ-2006/WinBridge-store@main/icons/irfanview.png",
     "screenshots": [],
     "shortDescription": "经典轻量级图像查看器，支持 100+ 图片格式，看图转换批处理一步到位。",
     "detailedDescription": "IrfanView 是一款快速紧凑的免费图像查看与转换工具，支持 BMP/GIF/JPEG/PNG/TIFF/WebP/RAW 等 100+ 格式。提供批量转换/重命名、幻灯片放映、基础编辑（裁剪/调整/滤镜）、截图等功能，是 Windows 平台经久不衰的看图神器。",
@@ -275,19 +258,16 @@
     "downloadSize": 4796032,
     "winlatorNotes": "Wine 兼容性极佳。默认安装插件包可获得更多格式支持。建议关联常用图片格式。",
     "downloadUrl": "https://github.com/YangRQ-2006/winbridge-store/releases/download/v1/iview475g_x64_setup.exe",
-    "officialSite": "https://www.irfanview.com"
+    "officialSite": "https://www.irfanview.com",
+    "sha256": "a85059f329065cf82f157f2541662a53b1befa4208bd566966265f9adaa20a5f"
   },
   {
     "appId": 810019,
     "name": "Mozilla Firefox",
     "appType": "curated",
     "packageName": "firefox",
-    "iconUrl": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/firefoxbrowser.svg",
-    "headerImage": "https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0?w=800&h=450&fit=crop",
-    "screenshots": [
-      "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=800&h=500&fit=crop",
-      "https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=800&h=500&fit=crop"
-    ],
+    "iconUrl": "https://cdn.jsdelivr.net/gh/YangRQ-2006/WinBridge-store@main/icons/firefox.png",
+    "screenshots": [],
     "shortDescription": "快速、安全的开源网络浏览器，注重隐私保护，支持丰富的扩展插件。",
     "detailedDescription": "Mozilla Firefox 是由 Mozilla 基金会开发的开源网页浏览器，以速度快、安全性高、隐私保护好而著称。它支持数千种扩展插件，提供标签页浏览、密码管理、开发者工具等丰富功能。在 Wine 中运行可体验完整桌面版浏览器。",
     "genres": [
@@ -305,6 +285,7 @@
     "downloadSize": 91677968,
     "winlatorNotes": "浏览器基本功能可用。中文显示正常。建议安装 uBlock Origin 等轻量扩展。视频播放和 WebGL 性能取决于 GPU 驱动配置。",
     "downloadUrl": "https://github.com/YangRQ-2006/winbridge-store/releases/download/v1/Firefox-Setup-155.0-x64-zhCN.exe",
-    "officialSite": "https://www.mozilla.org/firefox"
+    "officialSite": "https://www.mozilla.org/firefox",
+    "sha256": "9354b298343540f7baeda4906654988a197597125f099d6599fd43fcb3c6971c"
   }
 ]

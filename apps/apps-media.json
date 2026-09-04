@@ -4,12 +4,8 @@
     "name": "Paint.NET",
     "appType": "curated",
     "packageName": "paint-dotnet",
-    "iconUrl": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/dotnet.svg",
-    "headerImage": "https://images.unsplash.com/photo-1561070791-2526d30994b5?w=800&h=450&fit=crop",
-    "screenshots": [
-      "https://images.unsplash.com/photo-1558655146-9f40138edfeb?w=800&h=500&fit=crop",
-      "https://images.unsplash.com/photo-1561070791-2526d30994b5?w=800&h=500&fit=crop"
-    ],
+    "iconUrl": "https://cdn.jsdelivr.net/gh/YangRQ-2006/WinBridge-store@main/icons/paint-dotnet.png",
+    "screenshots": [],
     "shortDescription": "轻量级图像编辑软件，介于画图和 Photoshop 之间，适合日常图片处理。",
     "detailedDescription": "Paint.NET 是一款免费开源的图像编辑软件，功能介于 Windows 画图和 Photoshop 之间。它支持图层、调整、特效、历史记录、插件扩展等功能，界面直观易用，启动速度快。虽然安卓有各种图片编辑器，但 Paint.NET 的图层管理和插件生态在安卓上完全缺失。",
     "genres": [
@@ -27,19 +23,16 @@
     "downloadSize": 84238734,
     "winlatorNotes": "运行流畅，图层和滤镜功能正常。需要 .NET 6 运行时。中文显示需要确保字体支持。大文件处理速度取决于设备性能。",
     "downloadUrl": "https://github.com/YangRQ-2006/winbridge-store/releases/download/v1/Paint.NET-5.1.12-x64-install.zip",
-    "officialSite": "https://www.getpaint.net"
+    "officialSite": "https://www.getpaint.net",
+    "sha256": "3cd861b5af3f85bd28666d4a9017d03de237c08ad0103ee9d92b2cd921f8c867"
   },
   {
     "appId": 820008,
     "name": "VLC 媒体播放器",
     "appType": "curated",
     "packageName": "vlc",
-    "iconUrl": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/vlcmediaplayer.svg",
-    "headerImage": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=800&h=450&fit=crop",
-    "screenshots": [
-      "https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?w=800&h=500&fit=crop",
-      "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=800&h=500&fit=crop"
-    ],
+    "iconUrl": "https://cdn.jsdelivr.net/gh/YangRQ-2006/WinBridge-store@main/icons/vlc.png",
+    "screenshots": [],
     "shortDescription": "免费开源的跨平台媒体播放器，支持几乎所有音视频格式，无需额外安装解码器。",
     "detailedDescription": "VLC 媒体播放器是一款功能强大的开源多媒体播放器，支持 MPEG-2、MPEG-4、H.264、MKV、MP4、WebM 等几乎所有常见的音视频格式。它不需要安装额外的解码器，界面简洁，播放流畅，还支持流媒体播放和视频转码功能。",
     "genres": [
@@ -57,6 +50,7 @@
     "downloadSize": 45948080,
     "winlatorNotes": "视频播放功能基本可用，音频正常。部分 4K 视频可能会有性能问题，建议降低分辨率播放。",
     "downloadUrl": "https://github.com/YangRQ-2006/winbridge-store/releases/download/v1/vlc-3.0.23-win64.exe",
-    "officialSite": "https://www.videolan.org"
+    "officialSite": "https://www.videolan.org",
+    "sha256": "20ad191348684b470ddc4e05204316f3d8e39655f412b3e392a0eef97639daaf"
   }
 ]

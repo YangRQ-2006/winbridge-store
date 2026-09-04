@@ -276,5 +276,35 @@
     "winlatorNotes": "Wine 兼容性极佳。默认安装插件包可获得更多格式支持。建议关联常用图片格式。",
     "downloadUrl": "https://github.com/YangRQ-2006/winbridge-store/releases/download/v1/iview475g_x64_setup.exe",
     "officialSite": "https://www.irfanview.com"
+  },
+  {
+    "appId": 810019,
+    "name": "Mozilla Firefox",
+    "appType": "curated",
+    "packageName": "firefox",
+    "iconUrl": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/firefoxbrowser.svg",
+    "headerImage": "https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0?w=800&h=450&fit=crop",
+    "screenshots": [
+      "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=800&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=800&h=500&fit=crop"
+    ],
+    "shortDescription": "快速、安全的开源网络浏览器，注重隐私保护，支持丰富的扩展插件。",
+    "detailedDescription": "Mozilla Firefox 是由 Mozilla 基金会开发的开源网页浏览器，以速度快、安全性高、隐私保护好而著称。它支持数千种扩展插件，提供标签页浏览、密码管理、开发者工具等丰富功能。在 Wine 中运行可体验完整桌面版浏览器。",
+    "genres": [
+      "浏览器",
+      "网络工具",
+      "网页浏览"
+    ],
+    "isFree": true,
+    "price": "免费",
+    "developers": "Mozilla Foundation",
+    "publishers": "Mozilla",
+    "releaseDate": "2026-09-01",
+    "protonTier": "gold",
+    "totalReports": 312,
+    "downloadSize": 91677968,
+    "winlatorNotes": "浏览器基本功能可用。中文显示正常。建议安装 uBlock Origin 等轻量扩展。视频播放和 WebGL 性能取决于 GPU 驱动配置。",
+    "downloadUrl": "https://github.com/YangRQ-2006/winbridge-store/releases/download/v1/Firefox-Setup-155.0-x64-zhCN.exe",
+    "officialSite": "https://www.mozilla.org/firefox"
   }
 ]

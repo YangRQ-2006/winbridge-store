@@ -56,7 +56,7 @@
     "totalReports": 245,
     "downloadSize": 5242880,
     "winlatorNotes": "在 Wine 中运行良好，可以正常查看和管理进程。建议使用 /e 参数以启用增强模式。注意不要结束 Wine 核心进程。",
-    "downloadUrl": "",
+    "downloadUrl": "https://github.com/YangRQ-2006/winbridge-store/releases/download/v1/ProcessExplorer.zip",
     "officialSite": "https://learn.microsoft.com/en-us/sysinternals"
   },
   {
@@ -86,7 +86,7 @@
     "totalReports": 167,
     "downloadSize": 5242880,
     "winlatorNotes": "扫描和可视化功能正常。可以分析 Wine 虚拟 C 盘的占用情况。注意扫描完成后及时关闭，避免占用过多系统资源。",
-    "downloadUrl": "",
+    "downloadUrl": "https://github.com/YangRQ-2006/winbridge-store/releases/download/v1/WinDirStat-x64-v2.8.0.msi",
     "officialSite": "https://windirstat.net"
   },
   {
@@ -116,7 +116,7 @@
     "totalReports": 198,
     "downloadSize": 15728640,
     "winlatorNotes": "脚本运行稳定，可以正常捕获热键和模拟输入。建议避免使用过于复杂的 GUI 脚本。在 Wine 中可能需要调整键盘布局设置。",
-    "downloadUrl": "",
+    "downloadUrl": "https://github.com/YangRQ-2006/winbridge-store/releases/download/v1/AutoHotkey-v2.0.27-setup.exe",
     "officialSite": "https://www.autohotkey.com"
   }
 ]

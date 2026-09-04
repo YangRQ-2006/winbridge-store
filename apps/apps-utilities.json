@@ -12,7 +12,11 @@
     ],
     "shortDescription": "极简快速的 PDF 阅读器，开源免费，启动速度极快，支持 MOBI、EPUB、CHM 等多种格式。",
     "detailedDescription": "Sumatra PDF 是一款免费开源的 PDF 阅读器，以其极小的体积和极快的启动速度而闻名。它支持 PDF、MOBI、EPUB、CHM、DjVu、CBZ/CBR 等多种电子书和文档格式。界面极其简洁，无广告，无后台进程，是纯阅读需求的最佳选择。虽然安卓上有同类阅读器，但 Sumatra PDF 的简洁性和格式覆盖仍是独特优势。",
-    "genres": ["生产力", "PDF工具", "文档阅读"],
+    "genres": [
+      "生产力",
+      "PDF工具",
+      "文档阅读"
+    ],
     "isFree": true,
     "price": "免费",
     "developers": "Krzysztof Kowalczyk",
@@ -20,9 +24,9 @@
     "releaseDate": "2024-05-10",
     "protonTier": "platinum",
     "totalReports": 189,
-    "downloadSize": 1048576,
+    "downloadSize": 8246744,
     "winlatorNotes": "运行完美，打开速度极快。中文显示正常。适合快速查看 PDF，不适合重度注释和编辑。支持快捷键翻页。",
-    "downloadUrl": "https://github.com/YangRQ-2006/winbridge-store/releases/download/sumatra-pdf-3.5/SumatraPDF.exe",
+    "downloadUrl": "https://github.com/YangRQ-2006/winbridge-store/releases/download/v1/SumatraPDF-3.5.2-64-install.exe",
     "officialSite": "https://www.sumatrapdfreader.org"
   },
   {
@@ -38,7 +42,11 @@
     ],
     "shortDescription": "微软 Sysinternals 出品的进程管理工具，比任务管理器更强大，可查看进程树、句柄和 DLL。",
     "detailedDescription": "Process Explorer 是微软 Sysinternals 套件中的高级进程管理器，功能远超 Windows 自带的任务管理器。它可以显示进程树结构、查看进程打开的句柄和加载的 DLL、实时监控 CPU/内存/IO 占用、搜索进程、终止进程等。对于排查 Wine 容器内进程异常、资源占用过高问题非常有用。",
-    "genres": ["系统工具", "进程管理", "诊断工具"],
+    "genres": [
+      "系统工具",
+      "进程管理",
+      "诊断工具"
+    ],
     "isFree": true,
     "price": "免费",
     "developers": "Microsoft Sysinternals",
@@ -48,7 +56,7 @@
     "totalReports": 245,
     "downloadSize": 5242880,
     "winlatorNotes": "在 Wine 中运行良好，可以正常查看和管理进程。建议使用 /e 参数以启用增强模式。注意不要结束 Wine 核心进程。",
-    "downloadUrl": "https://github.com/YangRQ-2006/winbridge-store/releases/download/process-explorer-17/ProcessExplorer.exe",
+    "downloadUrl": "",
     "officialSite": "https://learn.microsoft.com/en-us/sysinternals"
   },
   {
@@ -64,7 +72,11 @@
     ],
     "shortDescription": "磁盘空间分析工具，可视化显示文件和文件夹大小，快速定位大文件和垃圾文件。",
     "detailedDescription": "WinDirStat 是一款免费的磁盘使用情况分析工具，能够扫描整个磁盘或指定目录，并以树状图和彩色区块图的方式展示每个文件和文件夹占用的空间大小。它可以快速定位占用大量空间的大文件、临时文件和垃圾文件。在 Wine 环境中特别适合分析虚拟 C 盘的磁盘占用情况。",
-    "genres": ["系统工具", "磁盘分析", "清理工具"],
+    "genres": [
+      "系统工具",
+      "磁盘分析",
+      "清理工具"
+    ],
     "isFree": true,
     "price": "免费",
     "developers": "WinDirStat Team",
@@ -74,7 +86,7 @@
     "totalReports": 167,
     "downloadSize": 5242880,
     "winlatorNotes": "扫描和可视化功能正常。可以分析 Wine 虚拟 C 盘的占用情况。注意扫描完成后及时关闭，避免占用过多系统资源。",
-    "downloadUrl": "https://github.com/YangRQ-2006/winbridge-store/releases/download/windirstat-1.3/WinDirStat.exe",
+    "downloadUrl": "",
     "officialSite": "https://windirstat.net"
   },
   {
@@ -90,7 +102,11 @@
     ],
     "shortDescription": "Windows 自动化脚本工具，通过简单脚本实现快捷键、窗口管理和自动化操作。",
     "detailedDescription": "AutoHotkey 是一款免费的 Windows 自动化脚本语言和工具，可以用简单的脚本定义快捷键、自动替换文本、控制窗口、模拟鼠标键盘输入、创建 GUI 界面等。它在 Wine 中非常有用，可以弥补触摸屏操作的不足，比如映射屏幕边缘为功能键、快速启动应用、窗口置顶等。",
-    "genres": ["系统工具", "自动化", "效率工具"],
+    "genres": [
+      "系统工具",
+      "自动化",
+      "效率工具"
+    ],
     "isFree": true,
     "price": "免费",
     "developers": "AutoHotkey Foundation",
@@ -100,7 +116,7 @@
     "totalReports": 198,
     "downloadSize": 15728640,
     "winlatorNotes": "脚本运行稳定，可以正常捕获热键和模拟输入。建议避免使用过于复杂的 GUI 脚本。在 Wine 中可能需要调整键盘布局设置。",
-    "downloadUrl": "https://github.com/YangRQ-2006/winbridge-store/releases/download/autohotkey-2/AutoHotkey.exe",
+    "downloadUrl": "",
     "officialSite": "https://www.autohotkey.com"
   }
 ]

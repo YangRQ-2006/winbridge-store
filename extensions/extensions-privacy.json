@@ -1,0 +1,38 @@
+{
+  "version": "1.0",
+  "updated": "2025-01-15",
+  "extensions": [
+    {
+      "id": "privacy-badger",
+      "name": "Privacy Badger",
+      "version": "2024.1",
+      "description": "自动学习并阻止隐形跟踪器",
+      "icon": "https://raw.githubusercontent.com/YangRQ-2006/winbridge-store/main/icons/privacy-badger.png",
+      "file": "extensions-packages/privacy-badger-2024.1.crx",
+      "size": 2097152,
+      "sha256": "",
+      "permissions": ["webRequest", "storage", "tabs"],
+      "category": "privacy",
+      "rating": 4.6,
+      "users": 1000000,
+      "developer": "EFF",
+      "website": "https://privacybadger.org"
+    },
+    {
+      "id": "https-everywhere",
+      "name": "HTTPS Everywhere",
+      "version": "2024.1",
+      "description": "自动将 HTTP 连接升级为 HTTPS",
+      "icon": "https://raw.githubusercontent.com/YangRQ-2006/winbridge-store/main/icons/https.png",
+      "file": "extensions-packages/https-everywhere-2024.1.crx",
+      "size": 1048576,
+      "sha256": "",
+      "permissions": ["webRequest", "storage"],
+      "category": "privacy",
+      "rating": 4.5,
+      "users": 500000,
+      "developer": "EFF",
+      "website": "https://www.eff.org/https-everywhere"
+    }
+  ]
+}

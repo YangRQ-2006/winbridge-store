@@ -1,0 +1,58 @@
+{
+  "version": "2.0",
+  "updated": "2025-01-15",
+  "assets": [
+    {
+      "id": "box64",
+      "name": "Box64 转译器",
+      "version": "0.4.0",
+      "description": "x86_64 指令转译器，让 ARM 设备运行 x86 程序",
+      "file": "packages/box64-0.4.0.tzst",
+      "size": 5242880,
+      "sha256": "",
+      "minAppVersion": "1.5.6",
+      "dependencies": [],
+      "category": "core",
+      "iconUrl": "https://raw.githubusercontent.com/YangRQ-2006/winbridge-store/main/icons/box64.png"
+    },
+    {
+      "id": "wine",
+      "name": "Wine 运行时",
+      "version": "9.0",
+      "description": "Windows 程序运行环境，支持运行 EXE 应用",
+      "file": "packages/wine-9.0.tzst",
+      "size": 65000000,
+      "sha256": "",
+      "minAppVersion": "1.5.6",
+      "dependencies": ["box64"],
+      "category": "core",
+      "iconUrl": "https://raw.githubusercontent.com/YangRQ-2006/winbridge-store/main/icons/wine.png"
+    },
+    {
+      "id": "container_pattern",
+      "name": "容器模板",
+      "version": "1.0",
+      "description": "Wine 前缀初始化模板，用于创建 Wine 容器",
+      "file": "packages/container_pattern-1.0.tzst",
+      "size": 7000000,
+      "sha256": "",
+      "minAppVersion": "1.5.6",
+      "dependencies": [],
+      "category": "core",
+      "iconUrl": "https://raw.githubusercontent.com/YangRQ-2006/winbridge-store/main/icons/container.png"
+    },
+    {
+      "id": "pulseaudio",
+      "name": "PulseAudio",
+      "version": "16.1",
+      "description": "音频服务，提供音频输出支持",
+      "file": "packages/pulseaudio-16.1.tzst",
+      "size": 2000000,
+      "sha256": "",
+      "minAppVersion": "1.5.6",
+      "dependencies": [],
+      "category": "core",
+      "iconUrl": "https://raw.githubusercontent.com/YangRQ-2006/winbridge-store/main/icons/audio.png"
+    }
+  ]
+}

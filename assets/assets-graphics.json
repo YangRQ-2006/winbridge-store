@@ -1,0 +1,76 @@
+{
+  "version": "2.0",
+  "updated": "2025-01-15",
+  "assets": [
+    {
+      "id": "dxvk",
+      "name": "DXVK",
+      "version": "2.3",
+      "description": "DirectX 9/10/11 → Vulkan 转换层",
+      "file": "packages/graphics/dxvk-2.3.tzst",
+      "size": 9437184,
+      "sha256": "",
+      "minAppVersion": "1.5.6",
+      "dependencies": [],
+      "category": "graphics",
+      "gpuVendor": "any",
+      "iconUrl": "https://raw.githubusercontent.com/YangRQ-2006/winbridge-store/main/icons/dxvk.png"
+    },
+    {
+      "id": "d8vk",
+      "name": "D8VK",
+      "version": "0.4",
+      "description": "DirectX 8 → Vulkan 转换层",
+      "file": "packages/graphics/d8vk-0.4.tzst",
+      "size": 3145728,
+      "sha256": "",
+      "minAppVersion": "1.5.6",
+      "dependencies": [],
+      "category": "graphics",
+      "gpuVendor": "any",
+      "iconUrl": "https://raw.githubusercontent.com/YangRQ-2006/winbridge-store/main/icons/d8vk.png"
+    },
+    {
+      "id": "vkd3d",
+      "name": "VKD3D",
+      "version": "1.9",
+      "description": "DirectX 12 → Vulkan 转换层",
+      "file": "packages/graphics/vkd3d-1.9.tzst",
+      "size": 4194304,
+      "sha256": "",
+      "minAppVersion": "1.5.6",
+      "dependencies": [],
+      "category": "graphics",
+      "gpuVendor": "any",
+      "iconUrl": "https://raw.githubusercontent.com/YangRQ-2006/winbridge-store/main/icons/vkd3d.png"
+    },
+    {
+      "id": "turnip",
+      "name": "Turnip",
+      "version": "24.1",
+      "description": "高通 Adreno GPU 驱动（推荐骁龙设备）",
+      "file": "packages/graphics/turnip-24.1.tzst",
+      "size": 3145728,
+      "sha256": "",
+      "minAppVersion": "1.5.6",
+      "dependencies": [],
+      "category": "graphics",
+      "gpuVendor": "qualcomm",
+      "iconUrl": "https://raw.githubusercontent.com/YangRQ-2006/winbridge-store/main/icons/turnip.png"
+    },
+    {
+      "id": "vortek",
+      "name": "Vortek",
+      "version": "1.2",
+      "description": "联发科 Mali GPU 驱动",
+      "file": "packages/graphics/vortek-1.2.tzst",
+      "size": 2097152,
+      "sha256": "",
+      "minAppVersion": "1.5.6",
+      "dependencies": [],
+      "category": "graphics",
+      "gpuVendor": "mali",
+      "iconUrl": "https://raw.githubusercontent.com/YangRQ-2006/winbridge-store/main/icons/vortek.png"
+    }
+  ]
+}

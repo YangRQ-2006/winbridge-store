@@ -1,0 +1,38 @@
+{
+  "version": "1.0",
+  "updated": "2025-01-15",
+  "extensions": [
+    {
+      "id": "immersive-translate",
+      "name": "沉浸式翻译",
+      "version": "1.5",
+      "description": "双语对照网页翻译，支持多种翻译服务",
+      "icon": "https://raw.githubusercontent.com/YangRQ-2006/winbridge-store/main/icons/translate.png",
+      "file": "extensions-packages/immersive-translate-1.5.crx",
+      "size": 2097152,
+      "sha256": "",
+      "permissions": ["activeTab", "storage"],
+      "category": "translate",
+      "rating": 4.9,
+      "users": 2000000,
+      "developer": "immersive-translate",
+      "website": "https://immersivetranslate.com"
+    },
+    {
+      "id": "google-translate",
+      "name": "Google 翻译",
+      "version": "2.1",
+      "description": "网页全文翻译",
+      "icon": "https://raw.githubusercontent.com/YangRQ-2006/winbridge-store/main/icons/google-translate.png",
+      "file": "extensions-packages/google-translate-2.1.crx",
+      "size": 1048576,
+      "sha256": "",
+      "permissions": ["activeTab", "storage"],
+      "category": "translate",
+      "rating": 4.5,
+      "users": 8000000,
+      "developer": "Google",
+      "website": "https://translate.google.com"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "version": "1.0",
+  "updated": "2025-01-15",
+  "extensions": [
+    {
+      "id": "vue-devtools",
+      "name": "Vue.js devtools",
+      "version": "6.5",
+      "description": "Vue.js 开发者调试工具",
+      "icon": "https://raw.githubusercontent.com/YangRQ-2006/winbridge-store/main/icons/vue.png",
+      "file": "extensions-packages/vue-devtools-6.5.crx",
+      "size": 5242880,
+      "sha256": "",
+      "permissions": ["tabs", "storage"],
+      "category": "developer",
+      "rating": 4.6,
+      "users": 1000000,
+      "developer": "Vue.js",
+      "website": "https://devtools.vuejs.org"
+    },
+    {
+      "id": "react-devtools",
+      "name": "React Developer Tools",
+      "version": "4.28",
+      "description": "React 组件调试工具",
+      "icon": "https://raw.githubusercontent.com/YangRQ-2006/winbridge-store/main/icons/react.png",
+      "file": "extensions-packages/react-devtools-4.28.crx",
+      "size": 4194304,
+      "sha256": "",
+      "permissions": ["tabs", "storage"],
+      "category": "developer",
+      "rating": 4.7,
+      "users": 2000000,
+      "developer": "Meta",
+      "website": "https://react.dev"
+    },
+    {
+      "id": "json-formatter",
+      "name": "JSON Formatter",
+      "version": "0.8",
+      "description": "JSON 数据格式化和高亮显示",
+      "icon": "https://raw.githubusercontent.com/YangRQ-2006/winbridge-store/main/icons/json.png",
+      "file": "extensions-packages/json-formatter-0.8.crx",
+      "size": 524288,
+      "sha256": "",
+      "permissions": ["activeTab"],
+      "category": "developer",
+      "rating": 4.5,
+      "users": 500000,
+      "developer": "various",
+      "website": ""
+    }
+  ]
+}

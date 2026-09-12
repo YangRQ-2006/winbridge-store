@@ -1,0 +1,58 @@
+{
+  "version": "2.0",
+  "updated": "2025-01-15",
+  "assets": [
+    {
+      "id": "vcrun2019",
+      "name": "Visual C++ 2015-2019",
+      "version": "14.29",
+      "description": "Microsoft Visual C++ 运行时库",
+      "file": "packages/wincomponents/vcrun2019.tzst",
+      "size": 15000000,
+      "sha256": "",
+      "minAppVersion": "1.5.6",
+      "dependencies": [],
+      "category": "runtime",
+      "iconUrl": "https://raw.githubusercontent.com/YangRQ-2006/winbridge-store/main/icons/vcrun.png"
+    },
+    {
+      "id": "d3dcompiler_47",
+      "name": "D3DCompiler 47",
+      "version": "47",
+      "description": "Direct3D 着色器编译器",
+      "file": "packages/wincomponents/d3dcompiler_47.tzst",
+      "size": 2000000,
+      "sha256": "",
+      "minAppVersion": "1.5.6",
+      "dependencies": [],
+      "category": "runtime",
+      "iconUrl": "https://raw.githubusercontent.com/YangRQ-2006/winbridge-store/main/icons/directx.png"
+    },
+    {
+      "id": "dotnet48",
+      "name": ".NET Framework 4.8",
+      "version": "4.8",
+      "description": "Microsoft .NET Framework 运行时",
+      "file": "packages/wincomponents/dotnet48.tzst",
+      "size": 60000000,
+      "sha256": "",
+      "minAppVersion": "1.5.6",
+      "dependencies": [],
+      "category": "runtime",
+      "iconUrl": "https://raw.githubusercontent.com/YangRQ-2006/winbridge-store/main/icons/dotnet.png"
+    },
+    {
+      "id": "winhttp",
+      "name": "WinHTTP",
+      "version": "5.1",
+      "description": "Windows HTTP 服务",
+      "file": "packages/wincomponents/winhttp.tzst",
+      "size": 1000000,
+      "sha256": "",
+      "minAppVersion": "1.5.6",
+      "dependencies": [],
+      "category": "runtime",
+      "iconUrl": "https://raw.githubusercontent.com/YangRQ-2006/winbridge-store/main/icons/network.png"
+    }
+  ]
+}

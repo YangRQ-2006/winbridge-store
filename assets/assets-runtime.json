@@ -53,6 +53,45 @@
       "dependencies": [],
       "category": "runtime",
       "iconUrl": "https://raw.githubusercontent.com/YangRQ-2006/winbridge-store/main/icons/network.png"
+    },
+    {
+      "id": "direct3d",
+      "name": "Direct3D",
+      "version": "1.0",
+      "description": "Direct3D 图形 API",
+      "file": "direct3d.tzst",
+      "size": 31207067,
+      "sha256": "",
+      "minAppVersion": "1.5.6",
+      "dependencies": [],
+      "category": "runtime",
+      "iconUrl": "https://raw.githubusercontent.com/YangRQ-2006/winbridge-store/main/icons/directx.png"
+    },
+    {
+      "id": "wmdecoder",
+      "name": "Windows Media Decoder",
+      "version": "1.0",
+      "description": "Windows 媒体解码器",
+      "file": "wmdecoder.tzst",
+      "size": 1717472,
+      "sha256": "",
+      "minAppVersion": "1.5.6",
+      "dependencies": [],
+      "category": "runtime",
+      "iconUrl": "https://raw.githubusercontent.com/YangRQ-2006/winbridge-store/main/icons/media.png"
+    },
+    {
+      "id": "xaudio",
+      "name": "XAudio",
+      "version": "1.0",
+      "description": "XAudio 音频 API",
+      "file": "xaudio.tzst",
+      "size": 2329991,
+      "sha256": "",
+      "minAppVersion": "1.5.6",
+      "dependencies": [],
+      "category": "runtime",
+      "iconUrl": "https://raw.githubusercontent.com/YangRQ-2006/winbridge-store/main/icons/audio.png"
     }
   ]
 }

@@ -7,7 +7,7 @@
       "name": "Box64 转译器",
       "version": "0.4.0",
       "description": "x86_64 指令转译器，让 ARM 设备运行 x86 程序",
-      "file": "packages/box64-0.4.0.tzst",
+      "file": "box64-0.4.0.tzst",
       "size": 5242880,
       "sha256": "",
       "minAppVersion": "1.5.6",
@@ -24,7 +24,9 @@
       "size": 65000000,
       "sha256": "",
       "minAppVersion": "1.5.6",
-      "dependencies": ["box64"],
+      "dependencies": [
+        "box64"
+      ],
       "category": "core",
       "iconUrl": "https://raw.githubusercontent.com/YangRQ-2006/winbridge-store/main/icons/wine.png"
     },
@@ -33,7 +35,7 @@
       "name": "容器模板",
       "version": "1.0",
       "description": "Wine 前缀初始化模板，用于创建 Wine 容器",
-      "file": "packages/container_pattern-1.0.tzst",
+      "file": "container_pattern-1.0.tzst",
       "size": 7000000,
       "sha256": "",
       "minAppVersion": "1.5.6",
@@ -46,7 +48,7 @@
       "name": "PulseAudio",
       "version": "16.1",
       "description": "音频服务，提供音频输出支持",
-      "file": "packages/pulseaudio-16.1.tzst",
+      "file": "pulseaudio-16.1.tzst",
       "size": 2000000,
       "sha256": "",
       "minAppVersion": "1.5.6",

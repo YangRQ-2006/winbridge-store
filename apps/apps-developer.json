@@ -4,7 +4,7 @@
     "name": "Sublime Text",
     "appType": "curated",
     "packageName": "sublime-text",
-    "iconUrl": "https://cdn.jsdelivr.net/gh/YangRQ-2006/WinBridge-store@main/icons/sublime-text.png",
+    "iconUrl": "https://cdn.jsdelivr.net/gh/YangRQ-2006/WinBridge-store@main/icons/apps/sublime-text.png",
     "screenshots": [],
     "shortDescription": "高性能文本编辑器，启动速度极快，支持多光标、Goto Anything、插件扩展。",
     "detailedDescription": "Sublime Text 是一款高性能的文本和代码编辑器，以其极快的启动速度和响应速度著称。它支持多光标编辑、Goto Anything 快速导航、命令面板、分屏编辑、正则表达式查找替换、Package Control 插件管理等强大功能。虽然安卓有各种编辑器，但 Sublime Text 的性能和多光标编辑体验仍是独特优势。",

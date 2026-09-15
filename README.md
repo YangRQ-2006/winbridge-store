@@ -1,85 +1,73 @@
 # WinBridge Store
 
-WinBridge 应用商店的后台数据仓库，收录常用 Wine 兼容性较好的办公/实用软件。
+WinBridge 应用商店的资产仓库，提供 Wine 组件、Windows 应用安装包和浏览器扩展。
 
 ## 仓库结构
 
 ```
-apps/
-├── apps-office.json      # 办公软件
-├── apps-utilities.json   # 实用工具
-├── apps-media.json       # 多媒体软件
-└── apps-developer.json   # 开发工具
+winbridge-store/
+├── apps/                    # Windows 应用清单
+│   ├── apps-developer.json  # 开发者工具（Notepad++, Sublime Text等）
+│   ├── apps-media.json      # 媒体工具（VLC, foobar2000等）
+│   ├── apps-office.json     # 办公软件（LibreOffice, SumatraPDF等）
+│   └── apps-utilities.json  # 实用工具（7-Zip, Everything等）
+├── assets/                  # Wine 资产清单
+│   ├── assets-core.json     # 核心组件（Box64, 容器模板, PulseAudio）
+│   ├── assets-graphics.json # 图形组件（DXVK, D8VK, VKD3D, GPU驱动）
+│   └── assets-runtime.json  # 运行时组件（VC++, .NET, Direct3D等）
+├── extensions/              # 浏览器扩展清单
+│   ├── extensions-adblock.json
+│   ├── extensions-developer.json
+│   ├── extensions-privacy.json
+│   ├── extensions-productivity.json
+│   └── extensions-translate.json
+├── icons/                   # 图标资源
+│   ├── apps/                # 应用图标
+│   ├── assets/              # Wine 组件图标
+│   └── extensions/          # 浏览器扩展图标
+└── README.md
 ```
 
-## 当前收录软件
+## Release 标签说明
 
-### 办公软件
+| Release | 内容 | 下载地址 |
+|---------|------|----------|
+| **v1** | Windows 应用安装包（7-Zip, Firefox, VLC等13款） | [Release v1](https://github.com/YangRQ-2006/winbridge-store/releases/tag/v1) |
+| **v2** | Wine 图形组件（DXVK, D8VK, VKD3D, Direct3D等） | [Release v2](https://github.com/YangRQ-2006/winbridge-store/releases/tag/v2) |
+| **v3** | Wine 核心组件（Box64, rootfs, 容器模板, PulseAudio） | [Release v3](https://github.com/YangRQ-2006/winbridge-store/releases/tag/v3) |
+| **v4** | 浏览器扩展（uBlock Origin, 沉浸式翻译等） | [Release v4](https://github.com/YangRQ-2006/winbridge-store/releases/tag/v4) |
 
-| 软件 | 简介 | Wine 评级 | 价格 |
-|------|------|-----------|------|
-| [7-Zip](https://www.7-zip.org) | 免费开源的文件压缩与解压缩工具，支持 7z、ZIP、RAR 等多种格式 | Platinum | 免费 |
-| [Notepad++](https://notepad-plus-plus.org) | 轻量级但功能强大的代码编辑器，支持语法高亮、多标签 | Platinum | 免费 |
-| [VLC 媒体播放器](https://www.videolan.org) | 免费开源的跨平台媒体播放器，支持几乎所有音视频格式 | Gold | 免费 |
-| [Mozilla Firefox](https://www.mozilla.org) | 快速、安全的开源网络浏览器，注重隐私保护 | Gold | 免费 |
-| [LibreOffice](https://www.libreoffice.org) | 功能强大的开源办公软件套件，与 Microsoft Office 高度兼容 | Gold | 免费 |
+## 使用说明
 
-### 实用工具
+### Wine 组件
 
-| 软件 | 简介 | Wine 评级 | 价格 |
-|------|------|-----------|------|
-| [XAMPP](https://www.apachefriends.org) | 轻量级 Apache + MySQL + PHP 开发环境 | Silver | 免费 |
-| [GIMP](https://www.gimp.org) | 功能强大的开源图像编辑软件，Photoshop 免费替代 | Gold | 免费 |
-| [Foobar2000](https://www.foobar2000.org) | 轻量级高保真音频播放器，资源占用极低 | Platinum | 免费 |
-| [IrfanView](https://www.irfanview.com) | 小巧快速的图像查看器，支持 100 多种图片格式 | Platinum | 免费 |
-| [CCleaner](https://www.ccleaner.com) | 系统清理优化工具，清理垃圾文件和注册表 | Gold | 免费版 |
+Wine 组件用于在 Android 设备上运行 Windows 程序：
 
-### 多媒体软件
+- **Box64** - x86_64 指令转译器
+- **Container Pattern** - Wine 容器模板
+- **PulseAudio** - 音频服务
+- **DXVK/D8VK/VKD3D** - DirectX → Vulkan 转换层
+- **GPU Drivers** - 高通 Turnip / 联发科 Vortek 驱动
+- **Runtime** - VC++, .NET Framework, Direct3D等运行时
 
-| 软件 | 简介 | Wine 评级 | 价格 |
-|------|------|-----------|------|
-| [Audacity](https://www.audacityteam.org) | 免费开源的音频编辑和录音软件，支持多轨道编辑 | Platinum | 免费 |
-| [HandBrake](https://handbrake.fr) | 免费开源的视频转码工具，支持几乎所有视频格式 | Gold | 免费 |
+### Windows 应用
 
-### 开发工具
+预打包的 Windows 应用安装包，可直接在 WinBridge 中安装运行：
 
-| 软件 | 简介 | Wine 评级 | 价格 |
-|------|------|-----------|------|
-| [Visual Studio Code](https://code.visualstudio.com) | 微软出品的免费代码编辑器，支持丰富的扩展插件 | Silver | 免费 |
-| [Git](https://git-scm.com) | 分布式版本控制系统，现代软件开发必备工具 | Platinum | 免费 |
+- **办公软件** - LibreOffice, SumatraPDF, Foxit PDF
+- **媒体工具** - VLC, foobar2000, IrfanView
+- **开发者工具** - Notepad++, Sublime Text, XAMPP
+- **实用工具** - 7-Zip, Everything, Process Explorer
 
-## 数据格式
+### 浏览器扩展
 
-每个 JSON 文件包含软件的基本信息、截图、ProtonDB 兼容性评级和 Winlator 运行提示。
+为 WinBridge 内置浏览器提供的扩展：
 
-```json
-{
-  "appId": 810001,
-  "name": "7-Zip",
-  "packageName": "7zip",
-  "iconUrl": "https://...",
-  "headerImage": "https://...",
-  "screenshots": ["https://..."],
-  "shortDescription": "...",
-  "detailedDescription": "...",
-  "genres": ["实用工具", "压缩软件"],
-  "isFree": true,
-  "price": "免费",
-  "protonTier": "platinum",
-  "totalReports": 128,
-  "winlatorNotes": "...",
-  "downloadUrl": "https://...",
-  "officialSite": "https://..."
-}
-```
-
-## 如何添加新软件
-
-1. Fork 本仓库
-2. 在对应分类的 JSON 文件中添加新条目
-3. 提交 Pull Request
-
-或直接在 [WinBridge 项目](https://github.com/YangRQ-2006/WinBridge) 中提交 Issue 请求添加。
+- **广告拦截** - uBlock Origin, AdGuard
+- **翻译工具** - 沉浸式翻译, Google 翻译
+- **开发者工具** - Vue.js devtools, React Developer Tools
+- **隐私保护** - Privacy Badger, HTTPS Everywhere
+- **效率工具** - Notion Web Clipper, Todoist
 
 ## 许可证
 

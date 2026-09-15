@@ -13,7 +13,7 @@
       "minAppVersion": "1.5.6",
       "dependencies": [],
       "category": "runtime",
-      "iconUrl": "https://raw.githubusercontent.com/YangRQ-2006/winbridge-store/main/icons/vcrun.png"
+      "iconUrl": "https://raw.githubusercontent.com/YangRQ-2006/winbridge-store/main/icons/assets/vcrun.png"
     },
     {
       "id": "d3dcompiler_47",
@@ -26,7 +26,7 @@
       "minAppVersion": "1.5.6",
       "dependencies": [],
       "category": "runtime",
-      "iconUrl": "https://raw.githubusercontent.com/YangRQ-2006/winbridge-store/main/icons/directx.png"
+      "iconUrl": "https://raw.githubusercontent.com/YangRQ-2006/winbridge-store/main/icons/assets/direct3d.png"
     },
     {
       "id": "dotnet48",
@@ -39,7 +39,7 @@
       "minAppVersion": "1.5.6",
       "dependencies": [],
       "category": "runtime",
-      "iconUrl": "https://raw.githubusercontent.com/YangRQ-2006/winbridge-store/main/icons/dotnet.png"
+      "iconUrl": "https://raw.githubusercontent.com/YangRQ-2006/winbridge-store/main/icons/assets/dotnet.png"
     },
     {
       "id": "winhttp",
@@ -52,7 +52,7 @@
       "minAppVersion": "1.5.6",
       "dependencies": [],
       "category": "runtime",
-      "iconUrl": "https://raw.githubusercontent.com/YangRQ-2006/winbridge-store/main/icons/network.png"
+      "iconUrl": "https://raw.githubusercontent.com/YangRQ-2006/winbridge-store/main/icons/assets/winhttp.png"
     },
     {
       "id": "direct3d",
@@ -65,7 +65,7 @@
       "minAppVersion": "1.5.6",
       "dependencies": [],
       "category": "runtime",
-      "iconUrl": "https://raw.githubusercontent.com/YangRQ-2006/winbridge-store/main/icons/directx.png"
+      "iconUrl": "https://raw.githubusercontent.com/YangRQ-2006/winbridge-store/main/icons/assets/direct3d.png"
     },
     {
       "id": "wmdecoder",
@@ -78,7 +78,7 @@
       "minAppVersion": "1.5.6",
       "dependencies": [],
       "category": "runtime",
-      "iconUrl": "https://raw.githubusercontent.com/YangRQ-2006/winbridge-store/main/icons/media.png"
+      "iconUrl": "https://raw.githubusercontent.com/YangRQ-2006/winbridge-store/main/icons/assets/wmdecoder.png"
     },
     {
       "id": "xaudio",
@@ -91,7 +91,7 @@
       "minAppVersion": "1.5.6",
       "dependencies": [],
       "category": "runtime",
-      "iconUrl": "https://raw.githubusercontent.com/YangRQ-2006/winbridge-store/main/icons/audio.png"
+      "iconUrl": "https://raw.githubusercontent.com/YangRQ-2006/winbridge-store/main/icons/assets/xaudio.png"
     }
   ]
 }

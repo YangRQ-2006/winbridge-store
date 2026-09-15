@@ -7,7 +7,7 @@
       "name": "Privacy Badger",
       "version": "2024.1",
       "description": "自动学习并阻止隐形跟踪器",
-      "icon": "https://raw.githubusercontent.com/YangRQ-2006/winbridge-store/main/icons/privacy-badger.png",
+      "icon": "https://raw.githubusercontent.com/YangRQ-2006/winbridge-store/main/icons/extensions/privacy-badger.png",
       "file": "extensions-packages/privacy-badger-2024.1.crx",
       "size": 2097152,
       "sha256": "",

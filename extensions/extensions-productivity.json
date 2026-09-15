@@ -23,7 +23,7 @@
       "name": "Todoist",
       "version": "10.0",
       "description": "任务管理工具",
-      "icon": "https://raw.githubusercontent.com/YangRQ-2006/winbridge-store/main/icons/todoist.png",
+      "icon": "https://raw.githubusercontent.com/YangRQ-2006/winbridge-store/main/icons/extensions/todoist.png",
       "file": "extensions-packages/todoist-10.0.crx",
       "size": 2097152,
       "sha256": "",

@@ -23,7 +23,7 @@
       "name": "Google 翻译",
       "version": "2.1",
       "description": "网页全文翻译",
-      "icon": "https://raw.githubusercontent.com/YangRQ-2006/winbridge-store/main/icons/google-translate.png",
+      "icon": "https://raw.githubusercontent.com/YangRQ-2006/winbridge-store/main/icons/extensions/google-translate.png",
       "file": "extensions-packages/google-translate-2.1.crx",
       "size": 1048576,
       "sha256": "",

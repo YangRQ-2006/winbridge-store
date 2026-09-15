@@ -14,7 +14,7 @@
       "dependencies": [],
       "category": "graphics",
       "gpuVendor": "any",
-      "iconUrl": "https://raw.githubusercontent.com/YangRQ-2006/winbridge-store/main/icons/dxvk.png"
+      "iconUrl": "https://raw.githubusercontent.com/YangRQ-2006/winbridge-store/main/icons/assets/dxvk.png"
     },
     {
       "id": "d8vk",
@@ -28,7 +28,7 @@
       "dependencies": [],
       "category": "graphics",
       "gpuVendor": "any",
-      "iconUrl": "https://raw.githubusercontent.com/YangRQ-2006/winbridge-store/main/icons/d8vk.png"
+      "iconUrl": "https://raw.githubusercontent.com/YangRQ-2006/winbridge-store/main/icons/assets/d8vk.png"
     },
     {
       "id": "vkd3d",
@@ -42,7 +42,7 @@
       "dependencies": [],
       "category": "graphics",
       "gpuVendor": "any",
-      "iconUrl": "https://raw.githubusercontent.com/YangRQ-2006/winbridge-store/main/icons/vkd3d.png"
+      "iconUrl": "https://raw.githubusercontent.com/YangRQ-2006/winbridge-store/main/icons/assets/vkd3d.png"
     },
     {
       "id": "turnip",
@@ -56,7 +56,7 @@
       "dependencies": [],
       "category": "graphics",
       "gpuVendor": "qualcomm",
-      "iconUrl": "https://raw.githubusercontent.com/YangRQ-2006/winbridge-store/main/icons/turnip.png"
+      "iconUrl": "https://raw.githubusercontent.com/YangRQ-2006/winbridge-store/main/icons/assets/turnip.png"
     },
     {
       "id": "vortek",
@@ -70,7 +70,7 @@
       "dependencies": [],
       "category": "graphics",
       "gpuVendor": "mali",
-      "iconUrl": "https://raw.githubusercontent.com/YangRQ-2006/winbridge-store/main/icons/vortek.png"
+      "iconUrl": "https://raw.githubusercontent.com/YangRQ-2006/winbridge-store/main/icons/assets/vortek.png"
     }
   ]
 }

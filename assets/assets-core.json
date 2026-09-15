@@ -13,7 +13,7 @@
       "minAppVersion": "1.5.6",
       "dependencies": [],
       "category": "core",
-      "iconUrl": "https://raw.githubusercontent.com/YangRQ-2006/winbridge-store/main/icons/box64.png"
+      "iconUrl": "https://raw.githubusercontent.com/YangRQ-2006/winbridge-store/main/icons/assets/box64.png"
     },
     {
       "id": "wine",
@@ -28,7 +28,7 @@
         "box64"
       ],
       "category": "core",
-      "iconUrl": "https://raw.githubusercontent.com/YangRQ-2006/winbridge-store/main/icons/wine.png"
+      "iconUrl": "https://raw.githubusercontent.com/YangRQ-2006/winbridge-store/main/icons/assets/wine.png"
     },
     {
       "id": "container_pattern",
@@ -41,7 +41,7 @@
       "minAppVersion": "1.5.6",
       "dependencies": [],
       "category": "core",
-      "iconUrl": "https://raw.githubusercontent.com/YangRQ-2006/winbridge-store/main/icons/container.png"
+      "iconUrl": "https://raw.githubusercontent.com/YangRQ-2006/winbridge-store/main/icons/assets/container.png"
     },
     {
       "id": "pulseaudio",
@@ -54,7 +54,7 @@
       "minAppVersion": "1.5.6",
       "dependencies": [],
       "category": "core",
-      "iconUrl": "https://raw.githubusercontent.com/YangRQ-2006/winbridge-store/main/icons/audio.png"
+      "iconUrl": "https://raw.githubusercontent.com/YangRQ-2006/winbridge-store/main/icons/assets/pulseaudio.png"
     }
   ]
 }

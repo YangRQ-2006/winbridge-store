@@ -8,6 +8,7 @@
       "version": "2.4.1",
       "description": "DirectX 9/10/11 → Vulkan 转换层",
       "file": "dxvk-2.4.1.tzst",
+      "release": "v2",
       "size": 9437184,
       "sha256": "",
       "minAppVersion": "1.5.6",
@@ -22,6 +23,7 @@
       "version": "1.0",
       "description": "DirectX 8 → Vulkan 转换层",
       "file": "d8vk-1.0.tzst",
+      "release": "v2",
       "size": 3145728,
       "sha256": "",
       "minAppVersion": "1.5.6",
@@ -36,6 +38,7 @@
       "version": "2.14.1",
       "description": "DirectX 12 → Vulkan 转换层",
       "file": "vkd3d-2.14.1.tzst",
+      "release": "v2",
       "size": 4194304,
       "sha256": "",
       "minAppVersion": "1.5.6",
@@ -43,34 +46,6 @@
       "category": "graphics",
       "gpuVendor": "any",
       "iconUrl": "https://raw.githubusercontent.com/YangRQ-2006/winbridge-store/main/icons/assets/vkd3d.png"
-    },
-    {
-      "id": "turnip",
-      "name": "Turnip",
-      "version": "24.1",
-      "description": "高通 Adreno GPU 驱动（推荐骁龙设备）",
-      "file": "packages/graphics/turnip-24.1.tzst",
-      "size": 3145728,
-      "sha256": "",
-      "minAppVersion": "1.5.6",
-      "dependencies": [],
-      "category": "graphics",
-      "gpuVendor": "qualcomm",
-      "iconUrl": "https://raw.githubusercontent.com/YangRQ-2006/winbridge-store/main/icons/assets/turnip.png"
-    },
-    {
-      "id": "vortek",
-      "name": "Vortek",
-      "version": "1.2",
-      "description": "联发科 Mali GPU 驱动",
-      "file": "packages/graphics/vortek-1.2.tzst",
-      "size": 2097152,
-      "sha256": "",
-      "minAppVersion": "1.5.6",
-      "dependencies": [],
-      "category": "graphics",
-      "gpuVendor": "mali",
-      "iconUrl": "https://raw.githubusercontent.com/YangRQ-2006/winbridge-store/main/icons/assets/vortek.png"
     }
   ]
 }

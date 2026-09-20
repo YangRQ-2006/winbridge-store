@@ -106,5 +106,80 @@
     "downloadUrl": "https://github.com/YangRQ-2006/winbridge-store/releases/download/v1/AutoHotkey-v2.0.27-setup.exe",
     "officialSite": "https://www.autohotkey.com",
     "sha256": "957c58d79742124c102307e0e9f43ec56557461e0892a852f9ef2c5f842494d9"
+  },
+  {
+    "appId": 910021,
+    "name": "CCleaner",
+    "appType": "curated",
+    "packageName": "ccleaner",
+    "iconUrl": "https://cdn.jsdelivr.net/gh/YangRQ-2006/WinBridge-store@main/icons/apps/ccleaner.png",
+    "screenshots": [],
+    "shortDescription": "系统清理和优化工具，清理垃圾文件、修复注册表、管理启动项。",
+    "detailedDescription": "CCleaner 是一款广受欢迎的系统清理和优化工具，可以清理临时文件、浏览器缓存、无效注册表项等垃圾内容，优化系统启动速度，卸载不需要的软件。免费版功能已经足够日常使用，专业版提供实时监控和自动清理功能。",
+    "genres": [
+      "系统工具",
+      "清理优化"
+    ],
+    "isFree": true,
+    "price": "免费",
+    "developers": "Piriform Software",
+    "publishers": "Gen Digital",
+    "releaseDate": "2024-01-15",
+    "protonTier": "gold",
+    "totalReports": 890,
+    "downloadSize": 36700160,
+    "winlatorNotes": "基础清理功能运行良好。注册表清理功能可用但建议谨慎使用。实时监控功能可能与 Wine 有兼容性问题，建议关闭。",
+    "downloadUrl": "https://download.ccleaner.com/ccsetup622.exe",
+    "officialSite": "https://www.ccleaner.com"
+  },
+  {
+    "appId": 910022,
+    "name": "XMPlay",
+    "appType": "curated",
+    "packageName": "xmplay",
+    "iconUrl": "https://cdn.jsdelivr.net/gh/YangRQ-2006/WinBridge-store@main/icons/apps/xmplay.png",
+    "screenshots": [],
+    "shortDescription": "轻量级音频播放器，支持多种格式，界面简洁，资源占用低。",
+    "detailedDescription": "XMPlay 是一款轻量级的音频播放器，支持 MP3、OGG、WMA、WAV、FLAC、AAC 等多种音频格式。它体积小巧（不到1MB），启动速度快，资源占用极低，非常适合在 Wine 环境下使用。支持插件扩展、皮肤更换、可视化效果等功能。",
+    "genres": [
+      "媒体工具",
+      "音频播放"
+    ],
+    "isFree": true,
+    "price": "免费",
+    "developers": "Un4seen Developments",
+    "publishers": "Un4seen Developments",
+    "releaseDate": "2023-12-01",
+    "protonTier": "platinum",
+    "totalReports": 156,
+    "downloadSize": 409600,
+    "winlatorNotes": "完美运行，资源占用极低。推荐作为轻量级音频播放器使用。支持所有常见音频格式。",
+    "downloadUrl": "https://www.un4seen.com/files/xmplay-3.8.5.zip",
+    "officialSite": "https://www.un4seen.com"
+  },
+  {
+    "appId": 910023,
+    "name": "Notepad2",
+    "appType": "curated",
+    "packageName": "notepad2",
+    "iconUrl": "https://cdn.jsdelivr.net/gh/YangRQ-2006/WinBridge-store@main/icons/apps/notepad2.png",
+    "screenshots": [],
+    "shortDescription": "轻量级代码编辑器，替代系统记事本，支持语法高亮和多编码。",
+    "detailedDescription": "Notepad2 是一款轻量级的代码编辑器，旨在替代 Windows 系统自带的记事本。它支持语法高亮（多种编程语言）、代码折叠、自动缩进、行号显示、多编码支持（UTF-8、GBK等）等功能。体积小巧，启动速度快，非常适合快速编辑代码和文本文件。",
+    "genres": [
+      "开发者工具",
+      "文本编辑"
+    ],
+    "isFree": true,
+    "price": "免费",
+    "developers": "Florian Balmer",
+    "publishers": "Florian Balmer",
+    "releaseDate": "2024-02-01",
+    "protonTier": "platinum",
+    "totalReports": 78,
+    "downloadSize": 1048576,
+    "winlatorNotes": "完美运行，可替代系统记事本。支持多种编程语言语法高亮。启动速度快，资源占用低。",
+    "downloadUrl": "https://github.com/zufuliu/notepad2/releases/download/v4.24.02r5086/Notepad2_zh-Hans.zip",
+    "officialSite": "https://github.com/zufuliu/notepad2"
   }
 ]

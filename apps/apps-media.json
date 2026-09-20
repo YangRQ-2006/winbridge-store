@@ -52,5 +52,55 @@
     "downloadUrl": "https://github.com/YangRQ-2006/winbridge-store/releases/download/v1/vlc-3.0.23-win64.exe",
     "officialSite": "https://www.videolan.org",
     "sha256": "20ad191348684b470ddc4e05204316f3d8e39655f412b3e392a0eef97639daaf"
+  },
+  {
+    "appId": 930003,
+    "name": "Audacity",
+    "appType": "curated",
+    "packageName": "audacity",
+    "iconUrl": "https://cdn.jsdelivr.net/gh/YangRQ-2006/WinBridge-store@main/icons/apps/audacity.png",
+    "screenshots": [],
+    "shortDescription": "免费开源的音频编辑软件，支持录音、剪辑、混音和特效处理。",
+    "detailedDescription": "Audacity 是一款免费、开源的音频编辑软件，支持多轨录音、音频剪辑、混音、降噪、变速变调等操作。它支持导入导出 MP3、WAV、FLAC、OGG 等多种音频格式，拥有丰富的内置效果和插件支持。在 Wine 下运行良好，适合进行简单的音频编辑任务。",
+    "genres": [
+      "媒体工具",
+      "音频编辑"
+    ],
+    "isFree": true,
+    "price": "免费",
+    "developers": "Audacity Team",
+    "publishers": "Audacity Team",
+    "releaseDate": "2024-01-15",
+    "protonTier": "gold",
+    "totalReports": 189,
+    "downloadSize": 29360128,
+    "winlatorNotes": "基础音频编辑功能运行良好。录音功能可能需要额外配置音频输入设备。多轨编辑和效果处理功能可用。建议关闭实时效果预览以提升性能。",
+    "downloadUrl": "https://github.com/audacity/audacity/releases/download/Audacity-3.5.1/audacity-win-3.5.1-x64.exe",
+    "officialSite": "https://www.audacityteam.org"
+  },
+  {
+    "appId": 930004,
+    "name": "GIMP",
+    "appType": "curated",
+    "packageName": "gimp",
+    "iconUrl": "https://cdn.jsdelivr.net/gh/YangRQ-2006/WinBridge-store@main/icons/apps/gimp.png",
+    "screenshots": [],
+    "shortDescription": "免费开源的图像编辑软件，功能媲美 Photoshop。",
+    "detailedDescription": "GIMP (GNU Image Manipulation Program) 是一款免费、开源的图像编辑软件，功能强大，可以媲美 Adobe Photoshop。它支持图层、蒙版、滤镜、路径、文字等专业图像处理功能，支持 PSD、XCF、TIFF、JPEG、PNG 等多种图像格式。在 Wine 下运行良好，适合进行图像编辑、修图、绘图等任务。",
+    "genres": [
+      "媒体工具",
+      "图像编辑"
+    ],
+    "isFree": true,
+    "price": "免费",
+    "developers": "GIMP Development Team",
+    "publishers": "GIMP Development Team",
+    "releaseDate": "2024-03-01",
+    "protonTier": "gold",
+    "totalReports": 345,
+    "downloadSize": 314572800,
+    "winlatorNotes": "图像编辑功能运行良好，支持图层、滤镜等专业功能。启动速度可能较慢，建议耐心等待。PSD 文件导入功能正常。关闭动画效果可提升流畅度。",
+    "downloadUrl": "https://download.gimp.org/gimp/v2.10/windows/gimp-2.10.38-setup.exe",
+    "officialSite": "https://www.gimp.org"
   }
 ]

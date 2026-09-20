@@ -188,7 +188,10 @@
     "appType": "curated",
     "packageName": "notepad-plus-plus",
     "iconUrl": "https://cdn.jsdelivr.net/gh/YangRQ-2006/WinBridge-store@main/icons/apps/notepad-plus-plus.png",
-    "screenshots": [],
+    "screenshots": [
+      "https://notepad-plus-plus.org/images/screenshots/npp-screenshot-1.png",
+      "https://notepad-plus-plus.org/images/screenshots/npp-screenshot-2.png"
+    ],
     "shortDescription": "免费的代码编辑器，支持语法高亮、代码折叠、宏录制等功能。",
     "detailedDescription": "Notepad++ 是一款免费的代码编辑器，支持语法高亮（多种编程语言）、代码折叠、宏录制、多标签编辑、正则表达式搜索替换等功能。它体积小巧，启动速度快，是 Windows 下最受欢迎的代码编辑器之一。",
     "genres": [
@@ -213,7 +216,9 @@
     "appType": "curated",
     "packageName": "7-zip",
     "iconUrl": "https://cdn.jsdelivr.net/gh/YangRQ-2006/WinBridge-store@main/icons/apps/7-zip.png",
-    "screenshots": [],
+    "screenshots": [
+      "https://www.7-zip.org/7zip/screenshots/7zip-file-manager.png"
+    ],
     "shortDescription": "免费的压缩解压工具，支持多种压缩格式，压缩率高。",
     "detailedDescription": "7-Zip 是一款免费的压缩解压工具，支持 7z、ZIP、GZIP、BZIP2、TAR、RAR、ISO 等多种压缩格式。它的 7z 格式压缩率非常高，远超 ZIP 格式。界面简洁，操作简单，是 Windows 下最受欢迎的压缩工具之一。",
     "genres": [

@@ -136,7 +136,10 @@
     "appType": "curated",
     "packageName": "notepad-plus-plus",
     "iconUrl": "https://cdn.jsdelivr.net/gh/YangRQ-2006/WinBridge-store@main/icons/apps/notepad-plus-plus.png",
-    "screenshots": [],
+    "screenshots": [
+      "https://notepad-plus-plus.org/images/screenshots/npp-screenshot-1.png",
+      "https://notepad-plus-plus.org/images/screenshots/npp-screenshot-2.png"
+    ],
     "shortDescription": "免费开源的文本与代码编辑器，启动飞快，支持语法高亮、多标签、正则查找替换、宏录制。",
     "detailedDescription": "Notepad++ 是 Windows 上最流行的轻量级文本编辑器，基于 Scintilla 编辑组件。支持 80+ 语言语法高亮、多文档多标签、正则表达式查找替换、列编辑、宏录制、插件扩展。打开超大文本文件（GB 级日志）也依然流畅，是记事本的完美替代品。",
     "genres": [
@@ -162,7 +165,9 @@
     "appType": "curated",
     "packageName": "7-zip",
     "iconUrl": "https://cdn.jsdelivr.net/gh/YangRQ-2006/WinBridge-store@main/icons/apps/7-zip.png",
-    "screenshots": [],
+    "screenshots": [
+      "https://www.7-zip.org/7zip/screenshots/7zip-file-manager.png"
+    ],
     "shortDescription": "开源压缩解压工具，支持 7z/ZIP/RAR/ISO 等 40+ 格式，压缩率业界领先。",
     "detailedDescription": "7-Zip 是免费开源的文件压缩工具，拥有极高的压缩比（7z 格式），支持 ZIP、RAR、ISO、WIM、MSI 等 40+ 种格式的解压，可创建加密压缩包（AES-256）。集成右键菜单，支持分卷压缩，是装机必备工具。",
     "genres": [

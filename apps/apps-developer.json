@@ -83,7 +83,10 @@
     "appType": "curated",
     "packageName": "git",
     "iconUrl": "https://cdn.jsdelivr.net/gh/YangRQ-2006/WinBridge-store@main/icons/apps/git.png",
-    "screenshots": [],
+    "screenshots": [
+      "https://git-scm.com/images/screenshots/git-gui.png",
+      "https://git-scm.com/images/screenshots/git-bash.png"
+    ],
     "shortDescription": "分布式版本控制系统，用于代码版本管理。",
     "detailedDescription": "Git 是一款分布式版本控制系统，用于代码版本管理。它支持分支管理、合并、冲突解决、远程仓库等功能。Git Bash 提供了类似 Linux 的命令行环境，适合在 Wine 下使用。",
     "genres": [
@@ -108,7 +111,9 @@
     "appType": "curated",
     "packageName": "nodejs",
     "iconUrl": "https://cdn.jsdelivr.net/gh/YangRQ-2006/WinBridge-store@main/icons/apps/nodejs.png",
-    "screenshots": [],
+    "screenshots": [
+      "https://nodejs.org/static/images/screenshots/nodejs-repl.png"
+    ],
     "shortDescription": "JavaScript 运行时环境，用于服务器端和命令行工具开发。",
     "detailedDescription": "Node.js 是一个基于 Chrome V8 引擎的 JavaScript 运行时环境，用于服务器端和命令行工具开发。它支持 npm 包管理器，拥有丰富的第三方包生态系统。Node.js 在 Wine 下运行良好，可以正常执行 JavaScript 脚本和安装 npm 包。",
     "genres": [

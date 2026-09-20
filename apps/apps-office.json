@@ -287,5 +287,30 @@
     "downloadUrl": "https://github.com/YangRQ-2006/winbridge-store/releases/download/v1/Firefox-Setup-155.0-x64-zhCN.exe",
     "officialSite": "https://www.mozilla.org/firefox",
     "sha256": "9354b298343540f7baeda4906654988a197597125f099d6599fd43fcb3c6971c"
+  },
+  {
+    "appId": 810013,
+    "name": "Sumatra PDF",
+    "appType": "curated",
+    "packageName": "sumatra-pdf",
+    "iconUrl": "https://cdn.jsdelivr.net/gh/YangRQ-2006/WinBridge-store@main/icons/apps/sumatrapdf.png",
+    "screenshots": [],
+    "shortDescription": "轻量级 PDF 阅读器，启动速度快，资源占用低。",
+    "detailedDescription": "Sumatra PDF 是一款轻量级的 PDF 阅读器，启动速度快，资源占用低。它支持 PDF、EPUB、MOBI、XPS、DjVu、CHM、CBZ、CBR 等多种文档格式。界面简洁，操作流畅，非常适合在 Wine 环境下使用。",
+    "genres": [
+      "办公软件",
+      "PDF阅读"
+    ],
+    "isFree": true,
+    "price": "免费",
+    "developers": "Krzysztof Kowalczyk",
+    "publishers": "Krzysztof Kowalczyk",
+    "releaseDate": "2024-01-15",
+    "protonTier": "platinum",
+    "totalReports": 234,
+    "downloadSize": 8388608,
+    "winlatorNotes": "完美运行，启动速度快，资源占用低。支持多种文档格式。推荐作为默认 PDF 阅读器。",
+    "downloadUrl": "https://www.sumatrapdfreader.org/dl/rel/3.5.2/SumatraPDF-3.5.2-64-install.exe",
+    "officialSite": "https://www.sumatrapdfreader.org"
   }
 ]

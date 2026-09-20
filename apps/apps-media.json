@@ -102,5 +102,30 @@
     "winlatorNotes": "图像编辑功能运行良好，支持图层、滤镜等专业功能。启动速度可能较慢，建议耐心等待。PSD 文件导入功能正常。关闭动画效果可提升流畅度。",
     "downloadUrl": "https://download.gimp.org/gimp/v2.10/windows/gimp-2.10.38-setup.exe",
     "officialSite": "https://www.gimp.org"
+  },
+  {
+    "appId": 930006,
+    "name": "IrfanView",
+    "appType": "curated",
+    "packageName": "irfanview",
+    "iconUrl": "https://cdn.jsdelivr.net/gh/YangRQ-2006/WinBridge-store@main/icons/apps/irfanview.png",
+    "screenshots": [],
+    "shortDescription": "轻量级图片查看器，启动速度快，支持多种图片格式。",
+    "detailedDescription": "IrfanView 是一款轻量级的图片查看器，启动速度快，资源占用低。它支持 JPEG、PNG、GIF、BMP、TIFF、WEBP 等多种图片格式，还支持图片编辑、批量转换、幻灯片播放等功能。界面简洁，操作简单，非常适合在 Wine 环境下使用。",
+    "genres": [
+      "媒体工具",
+      "图片查看"
+    ],
+    "isFree": true,
+    "price": "免费",
+    "developers": "Irfan Skiljan",
+    "publishers": "Irfan Skiljan",
+    "releaseDate": "2024-02-01",
+    "protonTier": "platinum",
+    "totalReports": 345,
+    "downloadSize": 4194304,
+    "winlatorNotes": "完美运行，启动速度快。支持多种图片格式。图片编辑功能可用。",
+    "downloadUrl": "https://www.irfanview.info/iview467_x64_setup.exe",
+    "officialSite": "https://www.irfanview.com"
   }
 ]

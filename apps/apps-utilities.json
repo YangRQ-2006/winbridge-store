@@ -181,5 +181,80 @@
     "winlatorNotes": "完美运行，可替代系统记事本。支持多种编程语言语法高亮。启动速度快，资源占用低。",
     "downloadUrl": "https://github.com/zufuliu/notepad2/releases/download/v4.24.02r5086/Notepad2_zh-Hans.zip",
     "officialSite": "https://github.com/zufuliu/notepad2"
+  },
+  {
+    "appId": 910024,
+    "name": "Notepad++",
+    "appType": "curated",
+    "packageName": "notepad-plus-plus",
+    "iconUrl": "https://cdn.jsdelivr.net/gh/YangRQ-2006/WinBridge-store@main/icons/apps/notepad-plus-plus.png",
+    "screenshots": [],
+    "shortDescription": "免费的代码编辑器，支持语法高亮、代码折叠、宏录制等功能。",
+    "detailedDescription": "Notepad++ 是一款免费的代码编辑器，支持语法高亮（多种编程语言）、代码折叠、宏录制、多标签编辑、正则表达式搜索替换等功能。它体积小巧，启动速度快，是 Windows 下最受欢迎的代码编辑器之一。",
+    "genres": [
+      "开发者工具",
+      "文本编辑"
+    ],
+    "isFree": true,
+    "price": "免费",
+    "developers": "Don Ho",
+    "publishers": "Don Ho",
+    "releaseDate": "2024-03-01",
+    "protonTier": "platinum",
+    "totalReports": 456,
+    "downloadSize": 5242880,
+    "winlatorNotes": "完美运行，启动速度快。支持多种编程语言语法高亮。宏录制功能正常。",
+    "downloadUrl": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.6.4/npp.8.6.4.Installer.x64.exe",
+    "officialSite": "https://notepad-plus-plus.org"
+  },
+  {
+    "appId": 910025,
+    "name": "7-Zip",
+    "appType": "curated",
+    "packageName": "7-zip",
+    "iconUrl": "https://cdn.jsdelivr.net/gh/YangRQ-2006/WinBridge-store@main/icons/apps/7-zip.png",
+    "screenshots": [],
+    "shortDescription": "免费的压缩解压工具，支持多种压缩格式，压缩率高。",
+    "detailedDescription": "7-Zip 是一款免费的压缩解压工具，支持 7z、ZIP、GZIP、BZIP2、TAR、RAR、ISO 等多种压缩格式。它的 7z 格式压缩率非常高，远超 ZIP 格式。界面简洁，操作简单，是 Windows 下最受欢迎的压缩工具之一。",
+    "genres": [
+      "实用工具",
+      "压缩解压"
+    ],
+    "isFree": true,
+    "price": "免费",
+    "developers": "Igor Pavlov",
+    "publishers": "Igor Pavlov",
+    "releaseDate": "2024-02-01",
+    "protonTier": "platinum",
+    "totalReports": 789,
+    "downloadSize": 2097152,
+    "winlatorNotes": "完美运行，支持所有压缩格式。压缩解压速度快。右键菜单集成可能不可用，但主界面功能完整。",
+    "downloadUrl": "https://www.7-zip.org/a/7z2404-x64.exe",
+    "officialSite": "https://www.7-zip.org"
+  },
+  {
+    "appId": 910026,
+    "name": "Everything",
+    "appType": "curated",
+    "packageName": "everything",
+    "iconUrl": "https://cdn.jsdelivr.net/gh/YangRQ-2006/WinBridge-store@main/icons/apps/everything.png",
+    "screenshots": [],
+    "shortDescription": "极速文件搜索工具，瞬间找到任何文件。",
+    "detailedDescription": "Everything 是一款极速文件搜索工具，可以在几秒钟内索引整个硬盘，并在毫秒级时间内找到任何文件。它支持正则表达式、通配符、过滤器等高级搜索功能，界面简洁，资源占用极低。",
+    "genres": [
+      "实用工具",
+      "文件搜索"
+    ],
+    "isFree": true,
+    "price": "免费",
+    "developers": "voidtools",
+    "publishers": "voidtools",
+    "releaseDate": "2024-01-15",
+    "protonTier": "gold",
+    "totalReports": 345,
+    "downloadSize": 2097152,
+    "winlatorNotes": "文件搜索功能运行良好。首次运行需要建立索引，可能需要一些时间。索引完成后搜索速度极快。",
+    "downloadUrl": "https://www.voidtools.com/Everything-1.4.1.1024.x64-Setup.exe",
+    "officialSite": "https://www.voidtools.com"
   }
 ]

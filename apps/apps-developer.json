@@ -76,5 +76,55 @@
     "winlatorNotes": "Python 解释器运行良好，pip 包管理功能正常。建议使用 python.org 官方安装包而非 Microsoft Store 版本。IDLE 开发环境可用。",
     "downloadUrl": "https://www.python.org/ftp/python/3.12.2/python-3.12.2-amd64.exe",
     "officialSite": "https://www.python.org"
+  },
+  {
+    "appId": 920004,
+    "name": "Git",
+    "appType": "curated",
+    "packageName": "git",
+    "iconUrl": "https://cdn.jsdelivr.net/gh/YangRQ-2006/WinBridge-store@main/icons/apps/git.png",
+    "screenshots": [],
+    "shortDescription": "分布式版本控制系统，用于代码版本管理。",
+    "detailedDescription": "Git 是一款分布式版本控制系统，用于代码版本管理。它支持分支管理、合并、冲突解决、远程仓库等功能。Git Bash 提供了类似 Linux 的命令行环境，适合在 Wine 下使用。",
+    "genres": [
+      "开发者工具",
+      "版本控制"
+    ],
+    "isFree": true,
+    "price": "免费",
+    "developers": "Git Project",
+    "publishers": "Git Project",
+    "releaseDate": "2024-03-01",
+    "protonTier": "gold",
+    "totalReports": 456,
+    "downloadSize": 52428800,
+    "winlatorNotes": "Git 命令行工具运行良好。Git Bash 提供了类似 Linux 的命令行环境。GUI 工具可能需要额外配置。",
+    "downloadUrl": "https://github.com/git-for-windows/git/releases/download/v2.44.0.windows.1/Git-2.44.0-64-bit.exe",
+    "officialSite": "https://git-scm.com"
+  },
+  {
+    "appId": 920005,
+    "name": "Node.js",
+    "appType": "curated",
+    "packageName": "nodejs",
+    "iconUrl": "https://cdn.jsdelivr.net/gh/YangRQ-2006/WinBridge-store@main/icons/apps/nodejs.png",
+    "screenshots": [],
+    "shortDescription": "JavaScript 运行时环境，用于服务器端和命令行工具开发。",
+    "detailedDescription": "Node.js 是一个基于 Chrome V8 引擎的 JavaScript 运行时环境，用于服务器端和命令行工具开发。它支持 npm 包管理器，拥有丰富的第三方包生态系统。Node.js 在 Wine 下运行良好，可以正常执行 JavaScript 脚本和安装 npm 包。",
+    "genres": [
+      "开发者工具",
+      "运行时环境"
+    ],
+    "isFree": true,
+    "price": "免费",
+    "developers": "OpenJS Foundation",
+    "publishers": "OpenJS Foundation",
+    "releaseDate": "2024-03-01",
+    "protonTier": "gold",
+    "totalReports": 345,
+    "downloadSize": 31457280,
+    "winlatorNotes": "Node.js 运行时运行良好。npm 包管理功能正常。建议使用 LTS 版本以获得更好的稳定性。",
+    "downloadUrl": "https://nodejs.org/dist/v20.11.1/node-v20.11.1-x64.msi",
+    "officialSite": "https://nodejs.org"
   }
 ]

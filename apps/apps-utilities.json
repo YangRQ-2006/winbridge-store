@@ -5,7 +5,10 @@
     "appType": "curated",
     "packageName": "sumatra-pdf",
     "iconUrl": "https://cdn.jsdelivr.net/gh/YangRQ-2006/WinBridge-store@main/icons/apps/sumatra-pdf.png",
-    "screenshots": [],
+    "screenshots": [
+      "https://files.sumatrapdfreader.org/assets/sumatrapdf/homepage-6204.png",
+      "https://files.sumatrapdfreader.org/assets/sumatrapdf/homepage-6204.png"
+    ],
     "shortDescription": "极简快速的 PDF 阅读器，开源免费，启动速度极快，支持 MOBI、EPUB、CHM 等多种格式。",
     "detailedDescription": "Sumatra PDF 是一款免费开源的 PDF 阅读器，以其极小的体积和极快的启动速度而闻名。它支持 PDF、MOBI、EPUB、CHM、DjVu、CBZ/CBR 等多种电子书和文档格式。界面极其简洁，无广告，无后台进程，是纯阅读需求的最佳选择。虽然安卓上有同类阅读器，但 Sumatra PDF 的简洁性和格式覆盖仍是独特优势。",
     "genres": [
@@ -32,7 +35,10 @@
     "appType": "curated",
     "packageName": "process-explorer",
     "iconUrl": "https://cdn.jsdelivr.net/gh/YangRQ-2006/WinBridge-store@main/icons/apps/process-explorer.png",
-    "screenshots": [],
+    "screenshots": [
+      "https://learn.microsoft.com/sysinternals/downloads/media/shared/download_sm.png",
+      "https://learn.microsoft.com/sysinternals/downloads/media/shared/download_sm.png"
+    ],
     "shortDescription": "微软 Sysinternals 出品的进程管理工具，比任务管理器更强大，可查看进程树、句柄和 DLL。",
     "detailedDescription": "Process Explorer 是微软 Sysinternals 套件中的高级进程管理器，功能远超 Windows 自带的任务管理器。它可以显示进程树结构、查看进程打开的句柄和加载的 DLL、实时监控 CPU/内存/IO 占用、搜索进程、终止进程等。对于排查 Wine 容器内进程异常、资源占用过高问题非常有用。",
     "genres": [
@@ -59,7 +65,10 @@
     "appType": "curated",
     "packageName": "windirstat",
     "iconUrl": "https://cdn.jsdelivr.net/gh/YangRQ-2006/WinBridge-store@main/icons/apps/windirstat.png",
-    "screenshots": [],
+    "screenshots": [
+      "https://windirstat.net/images/logo_wds_white.png",
+      "https://windirstat.net/images/logo_50px.png"
+    ],
     "shortDescription": "磁盘空间分析工具，可视化显示文件和文件夹大小，快速定位大文件和垃圾文件。",
     "detailedDescription": "WinDirStat 是一款免费的磁盘使用情况分析工具，能够扫描整个磁盘或指定目录，并以树状图和彩色区块图的方式展示每个文件和文件夹占用的空间大小。它可以快速定位占用大量空间的大文件、临时文件和垃圾文件。在 Wine 环境中特别适合分析虚拟 C 盘的磁盘占用情况。",
     "genres": [
@@ -217,7 +226,7 @@
     "packageName": "7-zip",
     "iconUrl": "https://cdn.jsdelivr.net/gh/YangRQ-2006/WinBridge-store@main/icons/apps/7-zip.png",
     "screenshots": [
-      "https://www.7-zip.org/7zip/screenshots/7zip-file-manager.png"
+      "https://www.7-zip.org/7ziplogo.png"
     ],
     "shortDescription": "免费的压缩解压工具，支持多种压缩格式，压缩率高。",
     "detailedDescription": "7-Zip 是一款免费的压缩解压工具，支持 7z、ZIP、GZIP、BZIP2、TAR、RAR、ISO 等多种压缩格式。它的 7z 格式压缩率非常高，远超 ZIP 格式。界面简洁，操作简单，是 Windows 下最受欢迎的压缩工具之一。",
@@ -243,7 +252,10 @@
     "appType": "curated",
     "packageName": "everything",
     "iconUrl": "https://cdn.jsdelivr.net/gh/YangRQ-2006/WinBridge-store@main/icons/apps/everything.png",
-    "screenshots": [],
+    "screenshots": [
+      "https://www.voidtools.com/voidtools9.png",
+      "https://www.voidtools.com/searchicon.png"
+    ],
     "shortDescription": "极速文件搜索工具，瞬间找到任何文件。",
     "detailedDescription": "Everything 是一款极速文件搜索工具，可以在几秒钟内索引整个硬盘，并在毫秒级时间内找到任何文件。它支持正则表达式、通配符、过滤器等高级搜索功能，界面简洁，资源占用极低。",
     "genres": [

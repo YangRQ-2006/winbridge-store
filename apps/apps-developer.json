@@ -5,7 +5,10 @@
     "appType": "curated",
     "packageName": "sublime-text",
     "iconUrl": "https://cdn.jsdelivr.net/gh/YangRQ-2006/WinBridge-store@main/icons/apps/sublime-text.png",
-    "screenshots": [],
+    "screenshots": [
+      "https://www.sublimetext.com/images/icon.png",
+      "https://www.sublimetext.com/images/icon.png"
+    ],
     "shortDescription": "高性能文本编辑器，启动速度极快，支持多光标、Goto Anything、插件扩展。",
     "detailedDescription": "Sublime Text 是一款高性能的文本和代码编辑器，以其极快的启动速度和响应速度著称。它支持多光标编辑、Goto Anything 快速导航、命令面板、分屏编辑、正则表达式查找替换、Package Control 插件管理等强大功能。虽然安卓有各种编辑器，但 Sublime Text 的性能和多光标编辑体验仍是独特优势。",
     "genres": [
@@ -32,7 +35,10 @@
     "appType": "curated",
     "packageName": "vscode",
     "iconUrl": "https://cdn.jsdelivr.net/gh/YangRQ-2006/WinBridge-store@main/icons/apps/vscode.png",
-    "screenshots": [],
+    "screenshots": [
+      "https://code.visualstudio.com/assets/apple-touch-icon.png",
+      "https://code.visualstudio.com/assets/docs/introvideos/basics/youtube-f8_uF_IDV50.jpg"
+    ],
     "shortDescription": "微软出品的轻量级代码编辑器，支持丰富的扩展生态系统。",
     "detailedDescription": "Visual Studio Code (VS Code) 是微软推出的一款免费、开源的代码编辑器。它支持 JavaScript、TypeScript、Python、Java、C++ 等几乎所有主流编程语言，拥有丰富的扩展生态系统，支持 IntelliSense 智能代码补全、Git 版本控制、终端集成、调试器等功能。虽然在 Wine 下性能可能不如原生，但基本功能可用。",
     "genres": [
@@ -84,8 +90,8 @@
     "packageName": "git",
     "iconUrl": "https://cdn.jsdelivr.net/gh/YangRQ-2006/WinBridge-store@main/icons/apps/git.png",
     "screenshots": [
-      "https://git-scm.com/images/screenshots/git-gui.png",
-      "https://git-scm.com/images/screenshots/git-bash.png"
+      "https://git-scm.com/images/logo@2x.png",
+      "https://git-scm.com/images/branching-illustration@2x.png"
     ],
     "shortDescription": "分布式版本控制系统，用于代码版本管理。",
     "detailedDescription": "Git 是一款分布式版本控制系统，用于代码版本管理。它支持分支管理、合并、冲突解决、远程仓库等功能。Git Bash 提供了类似 Linux 的命令行环境，适合在 Wine 下使用。",
@@ -112,7 +118,7 @@
     "packageName": "nodejs",
     "iconUrl": "https://cdn.jsdelivr.net/gh/YangRQ-2006/WinBridge-store@main/icons/apps/nodejs.png",
     "screenshots": [
-      "https://nodejs.org/static/images/screenshots/nodejs-repl.png"
+      "https://nodejs.org/static/images/favicons/favicon.png"
     ],
     "shortDescription": "JavaScript 运行时环境，用于服务器端和命令行工具开发。",
     "detailedDescription": "Node.js 是一个基于 Chrome V8 引擎的 JavaScript 运行时环境，用于服务器端和命令行工具开发。它支持 npm 包管理器，拥有丰富的第三方包生态系统。Node.js 在 Wine 下运行良好，可以正常执行 JavaScript 脚本和安装 npm 包。",

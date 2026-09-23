@@ -33,7 +33,8 @@
     "packageName": "vlc",
     "iconUrl": "https://cdn.jsdelivr.net/gh/YangRQ-2006/WinBridge-store@main/icons/apps/vlc.png",
     "screenshots": [
-      "https://www.videolan.org/images/screenshots/vlc-3.0-win64.png"
+      "https://images.videolan.org/vlc/screenshots/3.0.0/3.0.17-windows11-fitted.jpg",
+      "https://images.videolan.org/vlc/screenshots/android/playback-medium.jpg"
     ],
     "shortDescription": "免费开源的跨平台媒体播放器，支持几乎所有音视频格式，无需额外安装解码器。",
     "detailedDescription": "VLC 媒体播放器是一款功能强大的开源多媒体播放器，支持 MPEG-2、MPEG-4、H.264、MKV、MP4、WebM 等几乎所有常见的音视频格式。它不需要安装额外的解码器，界面简洁，播放流畅，还支持流媒体播放和视频转码功能。",
@@ -62,7 +63,7 @@
     "packageName": "audacity",
     "iconUrl": "https://cdn.jsdelivr.net/gh/YangRQ-2006/WinBridge-store@main/icons/apps/audacity.png",
     "screenshots": [
-      "https://www.audacityteam.org/wp-content/uploads/2024/01/audacity-3.5-screenshot.png"
+      "https://www.audacityteam.org/apple-touch-icon.png"
     ],
     "shortDescription": "免费开源的音频编辑软件，支持录音、剪辑、混音和特效处理。",
     "detailedDescription": "Audacity 是一款免费、开源的音频编辑软件，支持多轨录音、音频剪辑、混音、降噪、变速变调等操作。它支持导入导出 MP3、WAV、FLAC、OGG 等多种音频格式，拥有丰富的内置效果和插件支持。在 Wine 下运行良好，适合进行简单的音频编辑任务。",
@@ -89,7 +90,7 @@
     "packageName": "gimp",
     "iconUrl": "https://cdn.jsdelivr.net/gh/YangRQ-2006/WinBridge-store@main/icons/apps/gimp.png",
     "screenshots": [
-      "https://www.gimp.org/images/screenshots/gimp-2.10-screenshot.png"
+      "https://www.gimp.org/images/wilber32.png"
     ],
     "shortDescription": "免费开源的图像编辑软件，功能媲美 Photoshop。",
     "detailedDescription": "GIMP (GNU Image Manipulation Program) 是一款免费、开源的图像编辑软件，功能强大，可以媲美 Adobe Photoshop。它支持图层、蒙版、滤镜、路径、文字等专业图像处理功能，支持 PSD、XCF、TIFF、JPEG、PNG 等多种图像格式。在 Wine 下运行良好，适合进行图像编辑、修图、绘图等任务。",
@@ -115,7 +116,10 @@
     "appType": "curated",
     "packageName": "irfanview",
     "iconUrl": "https://cdn.jsdelivr.net/gh/YangRQ-2006/WinBridge-store@main/icons/apps/irfanview.png",
-    "screenshots": [],
+    "screenshots": [
+      "https://www.irfanview.com/images/favicon.png",
+      "https://www.irfanview.com/images/logo.png"
+    ],
     "shortDescription": "轻量级图片查看器，启动速度快，支持多种图片格式。",
     "detailedDescription": "IrfanView 是一款轻量级的图片查看器，启动速度快，资源占用低。它支持 JPEG、PNG、GIF、BMP、TIFF、WEBP 等多种图片格式，还支持图片编辑、批量转换、幻灯片播放等功能。界面简洁，操作简单，非常适合在 Wine 环境下使用。",
     "genres": [

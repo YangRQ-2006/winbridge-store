@@ -109,7 +109,10 @@
     "appType": "curated",
     "packageName": "libreoffice",
     "iconUrl": "https://cdn.jsdelivr.net/gh/YangRQ-2006/WinBridge-store@main/icons/apps/libreoffice.png",
-    "screenshots": [],
+    "screenshots": [
+      "https://www.libreoffice.org/media/screenshot_writer_hero.png",
+      "https://www.libreoffice.org/media/screenshot_writer.png"
+    ],
     "shortDescription": "开源办公套件，Microsoft Office 的免费替代，包含 Writer（文字处理）、Calc（表格）、Impress（演示）三大组件。",
     "detailedDescription": "LibreOffice 是最成熟的开源办公套件，完全支持 DOCX/XLSX/PPTX 格式的读写。Writer 提供完整的文字处理与排版能力，Calc 支持公式与数据透视表，Impress 可制作演示文稿并导出 PDF。对个人用户完全免费，无任何订阅与广告。",
     "genres": [
@@ -166,7 +169,7 @@
     "packageName": "7-zip",
     "iconUrl": "https://cdn.jsdelivr.net/gh/YangRQ-2006/WinBridge-store@main/icons/apps/7-zip.png",
     "screenshots": [
-      "https://www.7-zip.org/7zip/screenshots/7zip-file-manager.png"
+      "https://www.7-zip.org/7ziplogo.png"
     ],
     "shortDescription": "开源压缩解压工具，支持 7z/ZIP/RAR/ISO 等 40+ 格式，压缩率业界领先。",
     "detailedDescription": "7-Zip 是免费开源的文件压缩工具，拥有极高的压缩比（7z 格式），支持 ZIP、RAR、ISO、WIM、MSI 等 40+ 种格式的解压，可创建加密压缩包（AES-256）。集成右键菜单，支持分卷压缩，是装机必备工具。",
@@ -220,7 +223,10 @@
     "appType": "curated",
     "packageName": "everything",
     "iconUrl": "https://cdn.jsdelivr.net/gh/YangRQ-2006/WinBridge-store@main/icons/apps/everything.png",
-    "screenshots": [],
+    "screenshots": [
+      "https://www.voidtools.com/voidtools9.png",
+      "https://www.voidtools.com/searchicon.png"
+    ],
     "shortDescription": "Windows 文件即时搜索工具，输入即出结果，搜索速度秒杀系统自带。",
     "detailedDescription": "Everything 是 voidtools 出品的免费文件搜索工具，基于 NTFS 索引实现毫秒级全盘文件名搜索。输入关键词即时出结果，支持通配符、正则表达式、路径过滤，资源占用极低。配合 7-Zip 和 Notepad++ 是效率三件套。",
     "genres": [
@@ -246,7 +252,10 @@
     "appType": "curated",
     "packageName": "irfanview",
     "iconUrl": "https://cdn.jsdelivr.net/gh/YangRQ-2006/WinBridge-store@main/icons/apps/irfanview.png",
-    "screenshots": [],
+    "screenshots": [
+      "https://www.irfanview.com/images/favicon.png",
+      "https://www.irfanview.com/images/logo.png"
+    ],
     "shortDescription": "经典轻量级图像查看器，支持 100+ 图片格式，看图转换批处理一步到位。",
     "detailedDescription": "IrfanView 是一款快速紧凑的免费图像查看与转换工具，支持 BMP/GIF/JPEG/PNG/TIFF/WebP/RAW 等 100+ 格式。提供批量转换/重命名、幻灯片放映、基础编辑（裁剪/调整/滤镜）、截图等功能，是 Windows 平台经久不衰的看图神器。",
     "genres": [
@@ -299,7 +308,10 @@
     "appType": "curated",
     "packageName": "sumatra-pdf",
     "iconUrl": "https://cdn.jsdelivr.net/gh/YangRQ-2006/WinBridge-store@main/icons/apps/sumatrapdf.png",
-    "screenshots": [],
+    "screenshots": [
+      "https://files.sumatrapdfreader.org/assets/sumatrapdf/homepage-6204.png",
+      "https://files.sumatrapdfreader.org/assets/sumatrapdf/homepage-6204.png"
+    ],
     "shortDescription": "轻量级 PDF 阅读器，启动速度快，资源占用低。",
     "detailedDescription": "Sumatra PDF 是一款轻量级的 PDF 阅读器，启动速度快，资源占用低。它支持 PDF、EPUB、MOBI、XPS、DjVu、CHM、CBZ、CBR 等多种文档格式。界面简洁，操作流畅，非常适合在 Wine 环境下使用。",
     "genres": [

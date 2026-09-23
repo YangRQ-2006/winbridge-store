@@ -8,15 +8,20 @@
       "version": "1.2",
       "description": "将网页内容保存到 Notion",
       "icon": "https://raw.githubusercontent.com/YangRQ-2006/winbridge-store/main/icons/notion.png",
-      "file": "extensions-packages/notion-web-clipper-1.2.crx",
+      "file": "",
       "size": 1048576,
       "sha256": "",
-      "permissions": ["activeTab", "storage"],
+      "permissions": [
+        "activeTab",
+        "storage"
+      ],
       "category": "productivity",
       "rating": 4.4,
       "users": 500000,
       "developer": "Notion",
-      "website": "https://www.notion.so"
+      "website": "https://www.notion.so",
+      "chromeWebStoreId": "kfnllbmicmbgpnlgjepgfgfajmbpajab",
+      "downloadSource": "chromeWebStore"
     },
     {
       "id": "todoist",
@@ -24,15 +29,20 @@
       "version": "10.0",
       "description": "任务管理工具",
       "icon": "https://raw.githubusercontent.com/YangRQ-2006/winbridge-store/main/icons/extensions/todoist.png",
-      "file": "extensions-packages/todoist-10.0.crx",
+      "file": "",
       "size": 2097152,
       "sha256": "",
-      "permissions": ["activeTab", "storage"],
+      "permissions": [
+        "activeTab",
+        "storage"
+      ],
       "category": "productivity",
       "rating": 4.6,
       "users": 1000000,
       "developer": "Doist",
-      "website": "https://todoist.com"
+      "website": "https://todoist.com",
+      "chromeWebStoreId": "jlmdjmkagbobdmgdfhfcaogpmklnfamf",
+      "downloadSource": "chromeWebStore"
     }
   ]
 }

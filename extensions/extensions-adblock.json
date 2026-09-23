@@ -8,15 +8,21 @@
       "version": "1.50",
       "description": "高效的广告拦截器，轻量且强大",
       "icon": "https://raw.githubusercontent.com/YangRQ-2006/winbridge-store/main/icons/extensions/ublock.png",
-      "file": "extensions-packages/ublock-origin-1.50.crx",
+      "file": "",
       "size": 3145728,
       "sha256": "",
-      "permissions": ["webRequest", "storage", "tabs"],
+      "permissions": [
+        "webRequest",
+        "storage",
+        "tabs"
+      ],
       "category": "adblock",
       "rating": 4.8,
       "users": 10000000,
       "developer": "Raymond Hill",
-      "website": "https://github.com/gorhill/uBlock"
+      "website": "https://github.com/gorhill/uBlock",
+      "chromeWebStoreId": "cjpalhdlnbpafiamejdnhcphjbkeiagm",
+      "downloadSource": "chromeWebStore"
     },
     {
       "id": "adguard",
@@ -24,15 +30,21 @@
       "version": "4.2",
       "description": "广告、跟踪器和恶意软件拦截",
       "icon": "https://raw.githubusercontent.com/YangRQ-2006/winbridge-store/main/icons/extensions/adguard.png",
-      "file": "extensions-packages/adguard-4.2.crx",
+      "file": "",
       "size": 4194304,
       "sha256": "",
-      "permissions": ["webRequest", "storage", "tabs"],
+      "permissions": [
+        "webRequest",
+        "storage",
+        "tabs"
+      ],
       "category": "adblock",
       "rating": 4.7,
       "users": 5000000,
       "developer": "AdGuard Software",
-      "website": "https://adguard.com"
+      "website": "https://adguard.com",
+      "chromeWebStoreId": "bgnkhhnnamicmhdgnmahdkjaifbfldlo",
+      "downloadSource": "chromeWebStore"
     }
   ]
 }
